@@ -174,14 +174,42 @@ var LegalMap = function () {
 	this.addCountry = function (country) {
 		var infoWindow = '<h3>' + country.name + '</h3>';
 		infoWindow += '<h4>Treaties signed:</h4><ul>';
-		_.each(country.treaties, function (treaty) {
-			infoWindow += '<li>' + treaty + '</li>';
-		});
+		if (country.treaties.length > 0) {
+			_.each(country.treaties, function (treaty) {
+				infoWindow += '<li>' + treaty + '</li>';
+			});
+		} else {
+			infoWindow += '<li>None</li>';
+		}
 		infoWindow += '</ul>';
 		infoWindow += '<h4>Current situations:</h4><ul>';
-		_.each(country.situations, function (situation) {
-			infoWindow += '<li>' + situation + '</li>';
-		});
+		if (country.situations.length > 0) {
+			_.each(country.situations, function (situation) {
+				infoWindow += '<li>' + situation + '</li>';
+			});
+		} else {
+			infoWindow += '<li>None</li>';
+		}
+		infoWindow += '</ul>';
+		infoWindow += '<h4>Memberships:</h4><ul>';
+		if(country.memberships.length > 0) {
+			_.each(country.memberships, function (membership) {
+				infoWindow += '<li>' + membership + '</li>';
+			});
+		} else {
+			infoWindow += '<li>None</li>';
+		}
+		infoWindow += '</ul>';
+		infoWindow += '<h4>Death penalty:</h4><ul>';
+		if (country.deathPenalty === 0) {
+			infoWindow += '<li>Abolished</li>';
+		}
+		if (country.deathPenalty === 1) {
+			infoWindow += '<li><i>De-facto</i> abolished</li>';
+		}
+		if (country.deathPenalty === 2) {
+			infoWindow += '<li>Still in use</li>';
+		}
 		infoWindow += '</ul>';
 
 		try {
