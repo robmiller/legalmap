@@ -26,7 +26,7 @@ var LegalMap = function () {
 
 		// Provide actions for the filter buttons.
 		$(document).on('click', 'button:not(#showall)', function () {
-			if ($(this).data('state') === 'on' ) {
+			if ($(this).data('state') === 'on') {
 				$(this).data('state', 'off');
 				$(this).text($(this).text().replace(' ✔', ''));
 			} else {
@@ -41,29 +41,29 @@ var LegalMap = function () {
 
 			if ($(this).data('state') === 'on') {
 				if (treaties) {
-					self.activeFilters['treaties'].push(treaties);
+					self.activeFilters.treaties.push(treaties);
 				}
 				if (memberships) {
-					self.activeFilters['memberships'].push(memberships);
+					self.activeFilters.memberships.push(memberships);
 				}
 				if (situations) {
-					self.activeFilters['situations'].push(situations);
+					self.activeFilters.situations.push(situations);
 				}
 				if (typeof deathPenalty !== 'undefined') {
-					self.activeFilters['deathPenalty'].push(deathPenalty);
+					self.activeFilters.deathPenalty.push(deathPenalty);
 				}
 			} else {
 				if (treaties) {
-					self.activeFilters['treaties'].splice([_.indexOf(self.activeFilters['treaties'], treaties)], 1);
+					self.activeFilters.treaties.splice([_.indexOf(self.activeFilters.treaties, treaties)], 1);
 				}
 				if (memberships) {
-					self.activeFilters['memberships'].splice([_.indexOf(self.activeFilters['memberships'], memberships)], 1);
+					self.activeFilters.memberships.splice([_.indexOf(self.activeFilters.memberships, memberships)], 1);
 				}
 				if (situations) {
-					self.activeFilters['situations'].splice([_.indexOf(self.activeFilters['situations'], situations)], 1);
+					self.activeFilters.situations.splice([_.indexOf(self.activeFilters.situations, situations)], 1);
 				}
 				if (typeof deathPenalty !== 'undefined') {
-					self.activeFilters['deathPenalty'].splice([_.indexOf(self.activeFilters['deathPenalty'], deathPenalty)], 1);
+					self.activeFilters.deathPenalty.splice([_.indexOf(self.activeFilters.deathPenalty, deathPenalty)], 1);
 				}
 			}
 
@@ -101,9 +101,10 @@ var LegalMap = function () {
 	};
 
 	this.getCountries = function (filter) {
-		var filtered = self.countries;
+		var filtered = self.countries,
+			search;
 
-		var search = function (type, values) { return _.filter(self.countries, function (country) { return _.intersection(country[type], values).length == values.length; }); };
+		search = function (type, values) { return _.filter(self.countries, function (country) { return _.intersection(country[type], values).length === values.length; }); };
 
 		if (filter.treaties.length > 0) {
 			filtered = _.intersection(filtered, search("treaties", filter.treaties));
@@ -115,7 +116,7 @@ var LegalMap = function () {
 			filtered = _.intersection(filtered, search("situations", filter.situations));
 		}
 		if (filter.deathPenalty.length > 0) {
-			filtered = _.intersection(filtered, _.filter(self.countries, function (country) { return _.indexOf(filter.deathPenalty, parseInt(country.deathPenalty, 10)) != -1; }));
+			filtered = _.intersection(filtered, _.filter(self.countries, function (country) { return _.indexOf(filter.deathPenalty, parseInt(country.deathPenalty, 10)) !== -1; }));
 		}
 
 		return filtered;
@@ -203,7 +204,7 @@ var LegalMap = function () {
 
 	this.clearFilters = function () {
 		self.activeFilters = { treaties: [], memberships: [], situations: [], deathPenalty: [] };
-		$('button').each(function() {
+		$('button').each(function () {
 			$(this).text($(this).text().replace(' ✔', ''));
 			$(this).data('state', 'off');
 		});
