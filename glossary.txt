@@ -1,0 +1,16 @@
+{
+	"IACtHR": { "longName": "Inter-American Court of Human Rights" },
+	"ICC": { "longName": "Has a case at the International Criminal Court" },
+	"NATO": { "name": "NATO", "longName": "North Atlantic Treaty Organisation" },
+	"Domestic": { "name": "Domestic court", "longName": "Has a case in a domestic court" },
+	"ICTY": { "longName": "Has a case at the International Criminal Tribunal for the former Yugoslavia" },
+	"Inquiry": { "name": "International inquiry", "longName": "Is the subject of an international inquiry" },
+	"ECCC": { "longName": "Has a case at the Extraordinary Chambers in the Courts of Cambodia" },
+	"STL": { "longName": "Has a case at the Special Tribunal for Lebanon" },
+	"SCSL": { "longName": "Has a case at the Special Court for Sierra Leone" },
+	"ICTR": { "longName": "Has a case at the International Criminal Tribunal for Rwanda" },
+	"TAR": { "name": "Truth and Reconciliation", "longName": "Has a truth and reconciliation commission" },
+	"RT": { "name": "Russell Tribunal", "longName": "Is the subject of a Russell Tribunal" },
+	"UNSC": { "longName": "United Nations Security Council" },
+	"UNSC P5": { "longName": "Permanent 5 members of the United Nations Security Council" }
+}

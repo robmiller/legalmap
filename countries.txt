@@ -1,0 +1,2428 @@
+[
+    {
+        "name": "Andorra",
+        "lat": 42.5,
+        "lng": 1.5,
+        "treaties": [
+            "Rome Statute"
+        ],
+        "situations": [],
+        "memberships": ["ECHR"],
+        "deathPenalty": 0
+    },
+    {
+        "name": "United Arab Emirates",
+        "lat": 24,
+        "lng": 54,
+        "treaties": [],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 2
+    },
+    {
+        "name": "Afghanistan",
+        "lat": 33,
+        "lng": 65,
+        "treaties": [
+            "Rome Statute"
+        ],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 2
+    },
+    {
+        "name": "Antigua and Barbuda",
+        "lat": 17.05,
+        "lng": -61.8,
+        "treaties": [
+            "Rome Statute"
+        ],
+        "situations": [],
+        "memberships": ["IACHR"],
+        "deathPenalty": 2
+    },
+    {
+        "name": "Anguilla",
+        "lat": 18.25,
+        "lng": -63.1667,
+        "treaties": [],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Albania",
+        "lat": 41,
+        "lng": 20,
+        "treaties": [
+            "Rome Statute"
+        ],
+        "situations": [],
+        "memberships": ["ECHR"],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Armenia",
+        "lat": 40,
+        "lng": 45,
+        "treaties": [],
+        "situations": [],
+        "memberships": ["ECHR"],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Angola",
+        "lat": -12.5,
+        "lng": 18.5,
+        "treaties": [],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 0
+    },
+    {
+        "name": "AP",
+        "lat": 35,
+        "lng": 105,
+        "treaties": [],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Antarctica",
+        "lat": -90,
+        "lng": 0.1,
+        "treaties": [],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Argentina",
+        "lat": -34,
+        "lng": -64,
+        "treaties": [
+            "Rome Statute"
+        ],
+        "situations": [],
+        "memberships": ["IACHR", "IACtHR"],
+        "deathPenalty": 0
+    },
+    {
+        "name": "American Samoa",
+        "lat": -14.3333,
+        "lng": -170,
+        "treaties": [],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Austria",
+        "lat": 47.3333,
+        "lng": 13.3333,
+        "treaties": [
+            "Rome Statute"
+        ],
+        "situations": [],
+        "memberships": ["ECHR"],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Australia",
+        "lat": -27,
+        "lng": 133,
+        "treaties": [
+            "Rome Statute"
+        ],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Aruba",
+        "lat": 12.5,
+        "lng": -69.9667,
+        "treaties": [],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Azerbaijan",
+        "lat": 40.5,
+        "lng": 47.5,
+        "treaties": [],
+        "situations": [],
+        "memberships": ["UNSC", "ECHR"],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Bosnia and Herzegovina",
+        "lat": 44,
+        "lng": 18,
+        "treaties": [
+            "Rome Statute"
+        ],
+        "situations": [
+            "ICTY",
+            "Domestic"
+        ],
+        "memberships": ["ECHR"],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Barbados",
+        "lat": 13.1667,
+        "lng": -59.5333,
+        "treaties": [
+            "Rome Statute"
+        ],
+        "situations": [],
+        "memberships": ["IACHR", "IACtHR"],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Bangladesh",
+        "lat": 24,
+        "lng": 90,
+        "treaties": [
+            "Rome Statute"
+        ],
+        "situations": [
+            "Domestic"
+        ],
+        "memberships": [],
+        "deathPenalty": 2
+    },
+    {
+        "name": "Belgium",
+        "lat": 50.8333,
+        "lng": 4,
+        "treaties": [
+            "Rome Statute"
+        ],
+        "situations": [],
+        "memberships": ["ECHR"],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Burkino Faso",
+        "lat": 13,
+        "lng": -2,
+        "treaties": [
+            "Rome Statute"
+        ],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Bulgaria",
+        "lat": 43,
+        "lng": 25,
+        "treaties": [
+            "Rome Statute"
+        ],
+        "situations": [],
+        "memberships": ["ECHR"],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Bahrain",
+        "lat": 26,
+        "lng": 50.55,
+        "treaties": [],
+        "situations": [
+            "Inquiry"
+        ],
+        "memberships": [],
+        "deathPenalty": 2
+    },
+    {
+        "name": "Burundi",
+        "lat": -3.5,
+        "lng": 30,
+        "treaties": [
+            "Rome Statute"
+        ],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Benin",
+        "lat": 9.5,
+        "lng": 2.25,
+        "treaties": [
+            "Rome Statute"
+        ],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Bermuda",
+        "lat": 32.3333,
+        "lng": -64.75,
+        "treaties": [],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Brunei Darussalam",
+        "lat": 4.5,
+        "lng": 114.6667,
+        "treaties": [],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Bolivia",
+        "lat": -17,
+        "lng": -65,
+        "treaties": [
+            "Rome Statute"
+        ],
+        "situations": [],
+        "memberships": ["IACHR", "IACtHR"],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Brazil",
+        "lat": -10,
+        "lng": -55,
+        "treaties": [
+            "Rome Statute"
+        ],
+        "situations": [],
+        "memberships": ["IACHR", "IACtHR"],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Bahamas",
+        "lat": 24.25,
+        "lng": -76,
+        "treaties": [],
+        "situations": [],
+        "memberships": ["IACHR"],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Bhutan",
+        "lat": 27.5,
+        "lng": 90.5,
+        "treaties": [],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Bouvet Island",
+        "lat": -54.4333,
+        "lng": 3.4,
+        "treaties": [],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Botswana",
+        "lat": -22,
+        "lng": 24,
+        "treaties": [
+            "Rome Statute"
+        ],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 2
+    },
+    {
+        "name": "Belarus",
+        "lat": 53,
+        "lng": 28,
+        "treaties": [],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Belize",
+        "lat": 17.25,
+        "lng": -88.75,
+        "treaties": [
+            "Rome Statute"
+        ],
+        "situations": [],
+        "memberships": ["IACHR"],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Canada",
+        "lat": 60,
+        "lng": -95,
+        "treaties": [
+            "Rome Statute"
+        ],
+        "situations": [],
+        "memberships": ["IACHR"],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Cocos (Keeling) Islands",
+        "lat": -12.5,
+        "lng": 96.8333,
+        "treaties": [],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Congo, the Democratic Republic of the",
+        "lat": 0.1,
+        "lng": 25,
+        "treaties": [
+            "Rome Statute"
+        ],
+        "situations": [
+            "ICC"
+        ],
+        "memberships": [],
+        "deathPenalty": 2
+    },
+    {
+        "name": "Central African Republic",
+        "lat": 7,
+        "lng": 21,
+        "treaties": [
+            "Rome Statute"
+        ],
+        "situations": [
+            "ICC"
+        ],
+        "memberships": [],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Congo",
+        "lat": -1,
+        "lng": 15,
+        "treaties": [
+            "Rome Statute"
+        ],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Switzerland",
+        "lat": 47,
+        "lng": 8,
+        "treaties": [],
+        "situations": [],
+        "memberships": ["ECHR"],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Cote d'Ivoire",
+        "lat": 8,
+        "lng": -5,
+        "treaties": [],
+        "situations": [
+            "ICC"
+        ],
+        "memberships": [],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Cook Islands",
+        "lat": -21.2333,
+        "lng": -159.7667,
+        "treaties": [
+            "Rome Statute"
+        ],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Chile",
+        "lat": -30,
+        "lng": -71,
+        "treaties": [
+            "Rome Statute"
+        ],
+        "situations": [
+            "Domestic"
+        ],
+        "memberships": ["IACHR", "IACtHR"],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Cameroon",
+        "lat": 6,
+        "lng": 12,
+        "treaties": [],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 0
+    },
+    {
+        "name": "China",
+        "lat": 35,
+        "lng": 105,
+        "treaties": [],
+        "situations": [],
+        "memberships": ["UNSC", "UNSC P5"],
+        "deathPenalty": 2
+    },
+    {
+        "name": "Columbia",
+        "lat": 4,
+        "lng": -72,
+        "treaties": [
+            "Rome Statute"
+        ],
+        "situations": [],
+        "memberships": ["UNSC", "IACHR", "IACtHR"],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Costa Rica",
+        "lat": 10,
+        "lng": -84,
+        "treaties": [
+            "Rome Statute"
+        ],
+        "situations": [],
+        "memberships": ["IACHR", "IACtHR"],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Cuba",
+        "lat": 21.5,
+        "lng": -80,
+        "treaties": [],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 2
+    },
+    {
+        "name": "Cape Verde",
+        "lat": 16,
+        "lng": -24,
+        "treaties": [
+            "Rome Statute"
+        ],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Christmas Island",
+        "lat": -10.5,
+        "lng": 105.6667,
+        "treaties": [],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Cyprus",
+        "lat": 35,
+        "lng": 33,
+        "treaties": [
+            "Rome Statute"
+        ],
+        "situations": [],
+        "memberships": ["ECHR"],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Czech Republic",
+        "lat": 49.75,
+        "lng": 15.5,
+        "treaties": [
+            "Rome Statute"
+        ],
+        "situations": [],
+        "memberships": ["ECHR"],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Germany",
+        "lat": 51,
+        "lng": 9,
+        "treaties": [
+            "Rome Statute"
+        ],
+        "situations": [],
+        "memberships": ["UNSC", "ECHR"],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Djibouti",
+        "lat": 11.5,
+        "lng": 43,
+        "treaties": [
+            "Rome Statute"
+        ],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Denmark",
+        "lat": 56,
+        "lng": 10,
+        "treaties": [
+            "Rome Statute"
+        ],
+        "situations": [],
+        "memberships": ["ECHR"],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Dominica",
+        "lat": 15.4167,
+        "lng": -61.3333,
+        "treaties": [
+            "Rome Statute"
+        ],
+        "situations": [],
+        "memberships": ["IACHR"],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Dominican Republic",
+        "lat": 19,
+        "lng": -70.6667,
+        "treaties": [
+            "Rome Statute"
+        ],
+        "situations": [],
+        "memberships": ["IACHR", "IACtHR"],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Algeria",
+        "lat": 28,
+        "lng": 3,
+        "treaties": [],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Ecuador",
+        "lat": -2,
+        "lng": -77.5,
+        "treaties": [
+            "Rome Statute"
+        ],
+        "situations": [],
+        "memberships": ["IACHR", "IACtHR"],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Estonia",
+        "lat": 59,
+        "lng": 26,
+        "treaties": [
+            "Rome Statute"
+        ],
+        "situations": [],
+        "memberships": ["ECHR"],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Egypt",
+        "lat": 27,
+        "lng": 30,
+        "treaties": [],
+        "situations": [
+            "Domestic"
+        ],
+        "memberships": [],
+        "deathPenalty": 2
+    },
+    {
+        "name": "Western Sahara",
+        "lat": 24.5,
+        "lng": -13,
+        "treaties": [],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 0
+    },
+    {
+        "name": "East Timor",
+        "lat": -8.729,
+        "lng": 125.897,
+        "treaties": [
+            "Rome Statute"
+        ],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Eritrea",
+        "lat": 15,
+        "lng": 39,
+        "treaties": [],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Spain",
+        "lat": 40,
+        "lng": -4,
+        "treaties": [
+            "Rome Statute"
+        ],
+        "situations": [
+            "Domestic"
+        ],
+        "memberships": ["ECHR"],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Ethiopia",
+        "lat": 8,
+        "lng": 38,
+        "treaties": [],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 2
+    },
+    {
+        "name": "European Union",
+        "lat": 47,
+        "lng": 8,
+        "treaties": [],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Finland",
+        "lat": 64,
+        "lng": 26,
+        "treaties": [
+            "Rome Statute"
+        ],
+        "situations": [],
+        "memberships": ["ECHR"],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Fiji",
+        "lat": -18,
+        "lng": 175,
+        "treaties": [
+            "Rome Statute"
+        ],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Falkland Islands",
+        "lat": -51.75,
+        "lng": -59,
+        "treaties": [],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Micronesia, Federated States of",
+        "lat": 6.9167,
+        "lng": 158.25,
+        "treaties": [],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Faroe Islands",
+        "lat": 62,
+        "lng": -7,
+        "treaties": [],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 0
+    },
+    {
+        "name": "France",
+        "lat": 46,
+        "lng": 2,
+        "treaties": [
+            "Rome Statute"
+        ],
+        "situations": [],
+        "memberships": ["UNSC", "UNSC P5", "ECHR"],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Gabon",
+        "lat": -1,
+        "lng": 11.75,
+        "treaties": [
+            "Rome Statute"
+        ],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 0
+    },
+    {
+        "name": "United Kingdom",
+        "lat": 54,
+        "lng": -2,
+        "treaties": [
+            "Rome Statute"
+        ],
+        "situations": [
+            "RT"
+        ],
+        "memberships": ["UNSC", "UNSC P5", "ECHR"],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Grenada",
+        "lat": 12.1167,
+        "lng": -61.6667,
+        "treaties": [
+            "Rome Statute"
+        ],
+        "situations": [],
+        "memberships": ["IACHR"],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Georgia",
+        "lat": 42,
+        "lng": 43.5,
+        "treaties": [
+            "Rome Statute"
+        ],
+        "situations": [],
+        "memberships": ["ECHR"],
+        "deathPenalty": 0
+    },
+    {
+        "name": "French Guiana",
+        "lat": 4,
+        "lng": -53,
+        "treaties": [],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Ghana",
+        "lat": 8,
+        "lng": -2,
+        "treaties": [
+            "Rome Statute"
+        ],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Gibraltar",
+        "lat": 36.1833,
+        "lng": -5.3667,
+        "treaties": [],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Greenland",
+        "lat": 72,
+        "lng": -40,
+        "treaties": [],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Gambia",
+        "lat": 13.4667,
+        "lng": -16.5667,
+        "treaties": [
+            "Rome Statute"
+        ],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Guinea",
+        "lat": 11,
+        "lng": -10,
+        "treaties": [
+            "Rome Statute"
+        ],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Gaudeloupe",
+        "lat": 16.25,
+        "lng": -61.5833,
+        "treaties": [],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Equatorial Guinea",
+        "lat": 2,
+        "lng": 10,
+        "treaties": [],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 2
+    },
+    {
+        "name": "Greece",
+        "lat": 39,
+        "lng": 22,
+        "treaties": [
+            "Rome Statute"
+        ],
+        "situations": [],
+        "memberships": ["ECHR"],
+        "deathPenalty": 0
+    },
+    {
+        "name": "South Georgia and the South Sandwich Islands",
+        "lat": -54.5,
+        "lng": -37,
+        "treaties": [],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Guatemala",
+        "lat": 15.5,
+        "lng": -90.25,
+        "treaties": [
+            "Rome Statute"
+        ],
+        "situations": [],
+        "memberships": ["UNSC", "IACHR", "IACtHR"],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Guam",
+        "lat": 13.4667,
+        "lng": 144.7833,
+        "treaties": [],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Guinea-Bissau",
+        "lat": 12,
+        "lng": -15,
+        "treaties": [],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Guyana",
+        "lat": 5,
+        "lng": -59,
+        "treaties": [
+            "Rome Statute"
+        ],
+        "situations": [],
+        "memberships": ["IACHR"],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Hong Kong",
+        "lat": 22.25,
+        "lng": 114.1667,
+        "treaties": [],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Heard Island and McDonald Islands",
+        "lat": -53.1,
+        "lng": 72.5167,
+        "treaties": [],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Honduras",
+        "lat": 15,
+        "lng": -86.5,
+        "treaties": [
+            "Rome Statute"
+        ],
+        "situations": [],
+        "memberships": ["IACHR", "IACtHR"],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Croatia",
+        "lat": 45.1667,
+        "lng": 15.5,
+        "treaties": [
+            "Rome Statute"
+        ],
+        "situations": [
+            "ICTY",
+            "Domestic"
+        ],
+        "memberships": ["ECHR"],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Haiti",
+        "lat": 19,
+        "lng": -72.4167,
+        "treaties": [],
+        "situations": [],
+        "memberships": ["IACHR", "IACtHR"],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Hungary",
+        "lat": 47,
+        "lng": 20,
+        "treaties": [],
+        "situations": [],
+        "memberships": ["ECHR"],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Indonesia",
+        "lat": -5,
+        "lng": 120,
+        "treaties": [],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 2
+    },
+    {
+        "name": "Ireland",
+        "lat": 53,
+        "lng": -8,
+        "treaties": [
+            "Rome Statute"
+        ],
+        "situations": [],
+        "memberships": ["ECHR"],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Israel",
+        "lat": 31.5,
+        "lng": 34.75,
+        "treaties": [],
+        "situations": [
+            "RT"
+        ],
+        "memberships": [],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Isle of Man",
+        "lat": 20,
+        "lng": 77,
+        "treaties": [],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 0
+    },
+    {
+        "name": "India",
+        "lat": 20,
+        "lng": 77,
+        "treaties": [],
+        "situations": [],
+        "memberships": ["UNSC"],
+        "deathPenalty": 2
+    },
+    {
+        "name": "Iraq",
+        "lat": 33,
+        "lng": 44,
+        "treaties": [],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 2
+    },
+    {
+        "name": "Iran, Islamic Republic of",
+        "lat": 32,
+        "lng": 53,
+        "treaties": [],
+        "situations": [
+            "RT"
+        ],
+        "memberships": [],
+        "deathPenalty": 2
+    },
+    {
+        "name": "Iceland",
+        "lat": 65,
+        "lng": -18,
+        "treaties": [
+            "Rome Statute"
+        ],
+        "situations": [],
+        "memberships": ["ECHR"],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Italy",
+        "lat": 42.8333,
+        "lng": 12.8333,
+        "treaties": [
+            "Rome Statute"
+        ],
+        "situations": [],
+        "memberships": ["ECHR"],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Jamaica",
+        "lat": 18.25,
+        "lng": -77.5,
+        "treaties": [],
+        "situations": [],
+        "memberships": ["IACHR"],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Jordan",
+        "lat": 31,
+        "lng": 36,
+        "treaties": [
+            "Rome Statute"
+        ],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 2
+    },
+    {
+        "name": "Japan",
+        "lat": 36,
+        "lng": 138,
+        "treaties": [
+            "Rome Statute"
+        ],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 2
+    },
+    {
+        "name": "Kenya",
+        "lat": 1,
+        "lng": 38,
+        "treaties": [
+            "Rome Statute"
+        ],
+        "situations": [
+            "ICC",
+            "Domestic"
+        ],
+        "memberships": [],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Kyrgyzstan",
+        "lat": 41,
+        "lng": 75,
+        "treaties": [],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Cambodia",
+        "lat": 13,
+        "lng": 105,
+        "treaties": [
+            "Rome Statute"
+        ],
+        "situations": [
+            "ECCC"
+        ],
+        "memberships": [],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Kiribati",
+        "lat": 1.4167,
+        "lng": 173,
+        "treaties": [],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Comoros",
+        "lat": -12.1667,
+        "lng": 44.25,
+        "treaties": [
+            "Rome Statute"
+        ],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Saint Kitts and Nevis",
+        "lat": 17.3333,
+        "lng": -62.75,
+        "treaties": [
+            "Rome Statute"
+        ],
+        "situations": [],
+        "memberships": ["IACHR"],
+        "deathPenalty": 2
+    },
+    {
+        "name": "North Korea",
+        "lat": 40,
+        "lng": 127,
+        "treaties": [],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 2
+    },
+    {
+        "name": "Korea, Republic of (South)",
+        "lat": 37,
+        "lng": 127.5,
+        "treaties": [
+            "Rome Statute"
+        ],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Kosovo",
+        "lat": 42.553,
+        "lng": 20.86,
+        "treaties": [],
+        "situations": [
+            "ICTY",
+            "Domestic"
+        ],
+        "memberships": [],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Kuwait",
+        "lat": 29.3375,
+        "lng": 47.6581,
+        "treaties": [],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 2
+    },
+    {
+        "name": "Cayman Islands",
+        "lat": 19.5,
+        "lng": -80.5,
+        "treaties": [],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Kazakhstan",
+        "lat": 48,
+        "lng": 68,
+        "treaties": [],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Laos",
+        "lat": 18,
+        "lng": 105,
+        "treaties": [],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Lebanon",
+        "lat": 33.8333,
+        "lng": 35.8333,
+        "treaties": [],
+        "situations": [
+            "STL"
+        ],
+        "memberships": [],
+        "deathPenalty": 2
+    },
+    {
+        "name": "Saint Lucia",
+        "lat": 13.8833,
+        "lng": -61.1333,
+        "treaties": [
+            "Rome Statute"
+        ],
+        "situations": [],
+        "memberships": ["IACHR"],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Liechtenstein",
+        "lat": 47.1667,
+        "lng": 9.5333,
+        "treaties": [
+            "Rome Statute"
+        ],
+        "situations": [],
+        "memberships": ["ECHR"],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Sri Lanka",
+        "lat": 7,
+        "lng": 81,
+        "treaties": [],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Liberia",
+        "lat": 6.5,
+        "lng": -9.5,
+        "treaties": [
+            "Rome Statute"
+        ],
+        "situations": [
+            "SCSL",
+            "Domestic"
+        ],
+        "memberships": [],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Lesotho",
+        "lat": -29.5,
+        "lng": 28.5,
+        "treaties": [
+            "Rome Statute"
+        ],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Lithuania",
+        "lat": 56,
+        "lng": 24,
+        "treaties": [
+            "Rome Statute"
+        ],
+        "situations": [],
+        "memberships": ["ECHR"],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Luxembourg",
+        "lat": 49.75,
+        "lng": 6.1667,
+        "treaties": [
+            "Rome Statute"
+        ],
+        "situations": [],
+        "memberships": ["ECHR"],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Latvia",
+        "lat": 57,
+        "lng": 25,
+        "treaties": [
+            "Rome Statute"
+        ],
+        "situations": [],
+        "memberships": ["ECHR"],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Libya",
+        "lat": 25,
+        "lng": 17,
+        "treaties": [],
+        "situations": [
+            "ICC"
+        ],
+        "memberships": [],
+        "deathPenalty": 2
+    },
+    {
+        "name": "Morocco",
+        "lat": 32,
+        "lng": -5,
+        "treaties": [],
+        "situations": [],
+        "memberships": ["UNSC"],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Monaco",
+        "lat": 43.7333,
+        "lng": 7.4,
+        "treaties": [],
+        "situations": [],
+        "memberships": ["ECHR"],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Moldova",
+        "lat": 47,
+        "lng": 29,
+        "treaties": [
+            "Rome Statute"
+        ],
+        "situations": [],
+        "memberships": ["ECHR"],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Montenegro",
+        "lat": 42,
+        "lng": 19,
+        "treaties": [
+            "Rome Statute"
+        ],
+        "situations": [],
+        "memberships": ["ECHR"],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Madagascar",
+        "lat": -20,
+        "lng": 47,
+        "treaties": [
+            "Rome Statute"
+        ],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Marshall Islands",
+        "lat": 9,
+        "lng": 168,
+        "treaties": [
+            "Rome Statute"
+        ],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Macedonia, the former Yugoslav Republic of",
+        "lat": 41.8333,
+        "lng": 22,
+        "treaties": [
+            "Rome Statute"
+        ],
+        "situations": [],
+        "memberships": ["ECHR"],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Mali",
+        "lat": 17,
+        "lng": -4,
+        "treaties": [
+            "Rome Statute"
+        ],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Myanmar (Burma)",
+        "lat": 22,
+        "lng": 98,
+        "treaties": [],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Mongolia",
+        "lat": 46,
+        "lng": 105,
+        "treaties": [
+            "Rome Statute"
+        ],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Macao",
+        "lat": 22.1667,
+        "lng": 113.55,
+        "treaties": [],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Northern Mariana Islands",
+        "lat": 15.2,
+        "lng": 145.75,
+        "treaties": [],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Martinique",
+        "lat": 14.6667,
+        "lng": -61,
+        "treaties": [],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Mauritania",
+        "lat": 20,
+        "lng": -12,
+        "treaties": [],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Montserrat",
+        "lat": 16.75,
+        "lng": -62.2,
+        "treaties": [],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Malta",
+        "lat": 35.8333,
+        "lng": 14.5833,
+        "treaties": [
+            "Rome Statute"
+        ],
+        "situations": [],
+        "memberships": ["ECHR"],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Mauritius",
+        "lat": -20.2833,
+        "lng": 57.55,
+        "treaties": [
+            "Rome Statute"
+        ],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Maldives",
+        "lat": 3.25,
+        "lng": 73,
+        "treaties": [
+            "Rome Statute"
+        ],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Malawi",
+        "lat": -13.5,
+        "lng": 34,
+        "treaties": [
+            "Rome Statute"
+        ],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Mexico",
+        "lat": 23,
+        "lng": -102,
+        "treaties": [
+            "Rome Statute"
+        ],
+        "situations": [],
+        "memberships": ["IACHR", "IACtHR"],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Malaysia",
+        "lat": 2.5,
+        "lng": 112.5,
+        "treaties": [],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 2
+    },
+    {
+        "name": "Mozambique",
+        "lat": -18.25,
+        "lng": 35,
+        "treaties": [],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Namibia",
+        "lat": -22,
+        "lng": 17,
+        "treaties": [
+            "Rome Statute"
+        ],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 0
+    },
+    {
+        "name": "New Caledonia",
+        "lat": -21.5,
+        "lng": 165.5,
+        "treaties": [],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Niger",
+        "lat": 16,
+        "lng": 8,
+        "treaties": [
+            "Rome Statute"
+        ],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Norfolk Island",
+        "lat": -29.0333,
+        "lng": 167.95,
+        "treaties": [],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Nigeria",
+        "lat": 10,
+        "lng": 8,
+        "treaties": [
+            "Rome Statute"
+        ],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Nicaragua",
+        "lat": 13,
+        "lng": -85,
+        "treaties": [],
+        "situations": [],
+        "memberships": ["IACHR", "IACtHR"],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Netherlands",
+        "lat": 52.5,
+        "lng": 5.75,
+        "treaties": [
+            "Rome Statute"
+        ],
+        "situations": [],
+        "memberships": ["ECHR"],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Norway",
+        "lat": 62,
+        "lng": 10,
+        "treaties": [
+            "Rome Statute"
+        ],
+        "situations": [],
+        "memberships": ["ECHR"],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Nepal",
+        "lat": 28,
+        "lng": 84,
+        "treaties": [],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Nauru",
+        "lat": -0.5333,
+        "lng": 166.9167,
+        "treaties": [
+            "Rome Statute"
+        ],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Niue",
+        "lat": -19.0333,
+        "lng": -169.8667,
+        "treaties": [],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 0
+    },
+    {
+        "name": "New Zealand",
+        "lat": -41,
+        "lng": 174,
+        "treaties": [
+            "Rome Statute"
+        ],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Oman",
+        "lat": 21,
+        "lng": 57,
+        "treaties": [],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 2
+    },
+    {
+        "name": "Panama",
+        "lat": 9,
+        "lng": -80,
+        "treaties": [
+            "Rome Statute"
+        ],
+        "situations": [],
+        "memberships": ["IACHR", "IACtHR"],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Peru",
+        "lat": -10,
+        "lng": -76,
+        "treaties": [
+            "Rome Statute"
+        ],
+        "situations": [],
+        "memberships": ["IACHR", "IACtHR"],
+        "deathPenalty": 0
+    },
+    {
+        "name": "French Polynesia",
+        "lat": -15,
+        "lng": -140,
+        "treaties": [],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Papua New Guinea",
+        "lat": -6,
+        "lng": 147,
+        "treaties": [],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Philippines",
+        "lat": 13,
+        "lng": 122,
+        "treaties": [
+            "Rome Statute"
+        ],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Pakistan",
+        "lat": 30,
+        "lng": 70,
+        "treaties": [],
+        "situations": [],
+        "memberships": ["UNSC"],
+        "deathPenalty": 2
+    },
+    {
+        "name": "Poland",
+        "lat": 52,
+        "lng": 20,
+        "treaties": [
+            "Rome Statute"
+        ],
+        "situations": [],
+        "memberships": ["ECHR"],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Saint Pierre and Miquelon",
+        "lat": 46.8333,
+        "lng": -56.3333,
+        "treaties": [],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Puerto Rico",
+        "lat": 18.25,
+        "lng": -66.5,
+        "treaties": [],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Palestinian Territory, Occupied",
+        "lat": 32,
+        "lng": 35.25,
+        "treaties": [],
+        "situations": [
+            "RT"
+        ],
+        "memberships": [],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Portugal",
+        "lat": 39.5,
+        "lng": -8,
+        "treaties": [
+            "Rome Statute"
+        ],
+        "situations": [],
+        "memberships": ["UNSC", "ECHR"],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Palau",
+        "lat": 7.5,
+        "lng": 134.5,
+        "treaties": [],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Paraguay",
+        "lat": -23,
+        "lng": -58,
+        "treaties": [
+            "Rome Statute"
+        ],
+        "situations": [],
+        "memberships": ["IACHR", "IACtHR"],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Qatar",
+        "lat": 25.5,
+        "lng": 51.25,
+        "treaties": [],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 2
+    },
+    {
+        "name": "Reunion",
+        "lat": -21.1,
+        "lng": 55.6,
+        "treaties": [],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Romania",
+        "lat": 46,
+        "lng": 25,
+        "treaties": [
+            "Rome Statute"
+        ],
+        "situations": [],
+        "memberships": ["ECHR"],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Serbia",
+        "lat": 44,
+        "lng": 21,
+        "treaties": [
+            "Rome Statute"
+        ],
+        "situations": [
+            "ICTY",
+            "Domestic"
+        ],
+        "memberships": ["ECHR"],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Russian Federation",
+        "lat": 60,
+        "lng": 100,
+        "treaties": [],
+        "situations": [
+            "Inquiry"
+        ],
+        "memberships": ["UNSC", "UNSC P5", "ECHR"],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Rwanda",
+        "lat": -2,
+        "lng": 30,
+        "treaties": [],
+        "situations": [
+            "ICTR"
+        ],
+ 		"memberships": [],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Saudi Arabia",
+        "lat": 25,
+        "lng": 45,
+        "treaties": [],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 2
+    },
+    {
+        "name": "Solomon Islands",
+        "lat": -8,
+        "lng": 159,
+        "treaties": [],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Seychelles",
+        "lat": -4.5833,
+        "lng": 55.6667,
+        "treaties": [
+            "Rome Statute"
+        ],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Sudan",
+        "lat": 15,
+        "lng": 30,
+        "treaties": [],
+        "situations": [
+            "ICC"
+        ],
+        "memberships": [],
+        "deathPenalty": 2
+    },
+    {
+        "name": "Sweden",
+        "lat": 62,
+        "lng": 15,
+        "treaties": [
+            "Rome Statute"
+        ],
+        "situations": [],
+        "memberships": ["ECHR"],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Singapore",
+        "lat": 1.3667,
+        "lng": 103.8,
+        "treaties": [],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 2
+    },
+    {
+        "name": "Saint Helena, Ascension and Tristan da Cunha",
+        "lat": -15.9333,
+        "lng": -5.7,
+        "treaties": [],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Slovenia",
+        "lat": 46,
+        "lng": 15,
+        "treaties": [
+            "Rome Statute"
+        ],
+        "situations": [],
+        "memberships": ["ECHR"],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Slovakia",
+        "lat": 48.6667,
+        "lng": 19.5,
+        "treaties": [
+            "Rome Statute"
+        ],
+        "situations": [],
+        "memberships": ["ECHR"],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Sierra Leone",
+        "lat": 8.5,
+        "lng": -11.5,
+        "treaties": [
+            "Rome Statute"
+        ],
+        "situations": [
+            "SCSL",
+            "Domestic",
+            "TAR"
+        ],
+        "memberships": [],
+        "deathPenalty": 0
+    },
+    {
+        "name": "San Marino",
+        "lat": 43.7667,
+        "lng": 12.4167,
+        "treaties": [
+            "Rome Statute"
+        ],
+        "situations": [],
+        "memberships": ["ECHR"],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Senegal",
+        "lat": 14,
+        "lng": -14,
+        "treaties": [
+            "Rome Statute"
+        ],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Somalia",
+        "lat": 10,
+        "lng": 49,
+        "treaties": [],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 2
+    },
+    {
+        "name": "Suriname",
+        "lat": 4,
+        "lng": -56,
+        "treaties": [
+            "Rome Statute"
+        ],
+        "situations": [],
+        "memberships": ["IACHR", "IACtHR"],
+        "deathPenalty": 0
+    },
+    {
+        "name": "South Sudan",
+        "lat": 7.602,
+        "lng": 30.399,
+        "treaties": [],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 2
+    },
+    {
+        "name": "Sao Tome and Principe",
+        "lat": 1,
+        "lng": 7,
+        "treaties": [],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 0
+    },
+    {
+        "name": "El Salvador",
+        "lat": 13.8333,
+        "lng": -88.9167,
+        "treaties": [],
+        "situations": [],
+        "memberships": ["IACHR", "IACtHR"],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Syrian Arab Republic",
+        "lat": 35,
+        "lng": 38,
+        "treaties": [],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 2
+    },
+    {
+        "name": "Swaziland",
+        "lat": -26.5,
+        "lng": 31.5,
+        "treaties": [],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Turks and Caicos Islands",
+        "lat": 21.75,
+        "lng": -71.5833,
+        "treaties": [],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Chad",
+        "lat": 15,
+        "lng": 19,
+        "treaties": [
+            "Rome Statute"
+        ],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 2
+    },
+    {
+        "name": "Togo",
+        "lat": 8,
+        "lng": 1.1667,
+        "treaties": [],
+        "situations": [],
+        "memberships": ["UNSC"],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Thailand",
+        "lat": 15,
+        "lng": 100,
+        "treaties": [],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 2
+    },
+    {
+        "name": "Tajikistan",
+        "lat": 39,
+        "lng": 71,
+        "treaties": [
+            "Rome Statute"
+        ],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Tokelau",
+        "lat": -9,
+        "lng": -172,
+        "treaties": [],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Turkmenistan",
+        "lat": 40,
+        "lng": 60,
+        "treaties": [],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Tunisia",
+        "lat": 34,
+        "lng": 9,
+        "treaties": [
+            "Rome Statute"
+        ],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Tonga",
+        "lat": -20,
+        "lng": -175,
+        "treaties": [],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Turkey",
+        "lat": 39,
+        "lng": 35,
+        "treaties": [],
+        "situations": [],
+        "memberships": ["ECHR"],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Trinidad and Tobago",
+        "lat": 11,
+        "lng": -61,
+        "treaties": [
+            "Rome Statute"
+        ],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Tuvalu",
+        "lat": -8,
+        "lng": 178,
+        "treaties": [],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Taiwan",
+        "lat": 23.5,
+        "lng": 121,
+        "treaties": [],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Tanzania, United Republic of",
+        "lat": -6,
+        "lng": 35,
+        "treaties": [
+            "Rome Statute"
+        ],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Ukraine",
+        "lat": 49,
+        "lng": 32,
+        "treaties": [],
+        "situations": [],
+        "memberships": ["ECHR"],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Uganda",
+        "lat": 1,
+        "lng": 32,
+        "treaties": [
+            "Rome Statute"
+        ],
+        "situations": [
+            "ICC"
+        ],
+        "memberships": [],
+        "deathPenalty": 2
+    },
+    {
+        "name": "United States",
+        "lat": 38,
+        "lng": -97,
+        "treaties": [],
+        "situations": ["RT"],
+        "memberships": ["UNSC", "UNSC P5", "IACHR"],
+        "deathPenalty": 2
+    },
+    {
+        "name": "Uruguay",
+        "lat": -33,
+        "lng": -56,
+        "treaties": [
+            "Rome Statute"
+        ],
+        "situations": [],
+        "memberships": ["IACHR", "IACtHR"],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Uzbekistan",
+        "lat": 41,
+        "lng": 64,
+        "treaties": [],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Holy See (Vatican City State)",
+        "lat": 41.9,
+        "lng": 12.45,
+        "treaties": [],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Saint Vincent and the Grenadines",
+        "lat": 13.25,
+        "lng": -61.2,
+        "treaties": [
+            "Rome Statute"
+        ],
+        "situations": [],
+        "memberships": ["IACHR"],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Venezuela",
+        "lat": 8,
+        "lng": -66,
+        "treaties": [
+            "Rome Statute"
+        ],
+        "situations": [],
+        "memberships": ["IACHR", "IACtHR"],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Viet Nam",
+        "lat": 16,
+        "lng": 106,
+        "treaties": [],
+        "situations": [
+            "RT"
+        ],
+        "memberships": [],
+        "deathPenalty": 2
+    },
+    {
+        "name": "Vanuatu",
+        "lat": -16,
+        "lng": 167,
+        "treaties": [
+            "Rome Statute"
+        ],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Samoa",
+        "lat": -13.5833,
+        "lng": -172.3333,
+        "treaties": [
+            "Rome Statute"
+        ],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Yemen",
+        "lat": 15,
+        "lng": 48,
+        "treaties": [],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 2
+    },
+    {
+        "name": "Mayotte",
+        "lat": -12.8333,
+        "lng": 45.1667,
+        "treaties": [],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 0
+    },
+    {
+        "name": "South Africa",
+        "lat": -29,
+        "lng": 24,
+        "treaties": [
+            "Rome Statute"
+        ],
+        "situations": [
+            "TAR"
+        ],
+        "memberships": ["UNSC"],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Zambia",
+        "lat": -15,
+        "lng": 30,
+        "treaties": [
+            "Rome Statute"
+        ],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 0
+    },
+    {
+        "name": "Zimbabwe",
+        "lat": -20,
+        "lng": 30,
+        "treaties": [],
+        "situations": [],
+        "memberships": [],
+        "deathPenalty": 2
+    }
+]

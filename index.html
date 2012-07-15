@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>Legal map of the world</title>
+
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+	<script src="_.js"></script>
+
+	<script src="http://maps.google.com/maps/api/js?sensor=true"></script>
+	<script src="gmaps.js"></script>
+
+	<link rel="stylesheet" href="bootstrap/css/bootstrap.css">
+	<script src="bootstrap/js/bootstrap.js"></script>
+
+	<style>
+	body {
+		padding:1em;
+	}
+
+	#map {
+		width:100%;
+	}
+
+	#map img {
+		width:auto;
+		display:inline;
+		max-width:none;
+	}
+
+	.filters p {
+		position:relative;
+		min-height:2.5em;
+		padding-left:8em;
+		line-height:2.5em;
+	}
+
+	.filters span {
+		position:absolute;
+		left:0;
+		width:8em;
+		line-height:1em;
+		padding:0.5em 0 0 0;
+	}
+
+	.filters button {
+		margin-right:2px;
+	}
+
+	.filters button:last-child {
+		margin-right:0;
+	}
+
+	.below {
+		position:relative;
+		width:100%;
+		height:18px;
+		margin-bottom:1em;
+		border-bottom:1px solid #ccc;
+	}
+
+	.below .toggle {
+		position:absolute;
+		bottom:-9px;
+		left:50%;
+		margin-left:-45px;
+		
+		width:90px;
+	}
+	</style>
+
+	<script src="legalMap.js"></script>
+</head>
+
+<body>
+
+	<div class="top row-fluid">
+	<div class="filters span6">
+		<p id="treaties">
+			<span>Treaties:</span>
+		</p>
+		<p id="memberships">
+			<span>Memberships:</span>
+		<p id="situations">
+			<span>Ongoing events:</span>
+		</p>
+		<p id="deathpenalty">
+			<span>Death penalty status:</span>
+			<button class="btn btn-danger" data-deathpenalty="2">Still in use</button>
+			<button class="btn btn-warning" data-deathpenalty="1"><i>De facto</i> abolished</button>
+			<button class="btn btn-success" data-deathpenalty="0">Abolished</button>
+	</div>
+	<div class="about span6">
+		<h3>About this map</h3>
+
+		<p>The world of international criminal law, international human rights law, crimes against humanity, and war crimes is complex and often confusing. This map aims to both illustrate this fact and help alleviate the confusion, by showing you just what each country is signed up to, participates in, and is doing at this moment.</p>
+
+		<p>Law by <a href="http://gmccall.co.uk">Gillian McCall</a>; code by <a href="http://robm.me.uk">Rob Miller</a>.</p>
+
+		<p><button id="showall" class="btn btn-success">Show all countries</button></p>
+	</div>
+	</div>
+
+	<div class="below">
+		<a href="#" id="togglefilters" class="toggle btn" data-action="close"><i class="icon-arrow-up"></i> <span>Close filters</span></a>
+	</div>
+
+	<div id="map"></div>
+</body>
+</html>
