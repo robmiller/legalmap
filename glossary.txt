@@ -12,5 +12,11 @@
 	"TAR": { "name": "Truth and Reconciliation", "longName": "Has a truth and reconciliation commission" },
 	"RT": { "name": "Russell Tribunal", "longName": "Is the subject of a Russell Tribunal" },
 	"UNSC": { "longName": "United Nations Security Council" },
-	"UNSC P5": { "longName": "Permanent 5 members of the United Nations Security Council" }
+	"UNSC P5": { "longName": "Permanent 5 members of the United Nations Security Council" },
+	"ECHR" : { "longName": "Is a member of the Council of Europe and the European Court of Human Rights" },
+	"IACHR": { "longName": "Inter-American Commission on Human Rights" },
+	"ACtHPR": { "longName": "African Court on Human and People's Rights" },
+	"AU": { "longName": "African Union" },
+	"ASEAN": { "longName": "Association of South East Asian Nations" },
+	"AL": { "name": "Arab League", "longName": "Arab League of States" }
 }
