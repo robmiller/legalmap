@@ -16,7 +16,7 @@
         "lng": 54,
         "treaties": [],
         "situations": [],
-        "memberships": [],
+        "memberships": ["AL"],
         "deathPenalty": 2
     },
     {
@@ -58,7 +58,7 @@
             "Rome Statute"
         ],
         "situations": [],
-        "memberships": ["ECHR"],
+        "memberships": ["ECHR", "NATO"],
         "deathPenalty": 0
     },
     {
@@ -76,16 +76,7 @@
         "lng": 18.5,
         "treaties": [],
         "situations": [],
-        "memberships": [],
-        "deathPenalty": 0
-    },
-    {
-        "name": "AP",
-        "lat": 35,
-        "lng": 105,
-        "treaties": [],
-        "situations": [],
-        "memberships": [],
+        "memberships": ["AU"],
         "deathPenalty": 0
     },
     {
@@ -203,7 +194,7 @@
             "Rome Statute"
         ],
         "situations": [],
-        "memberships": ["ECHR"],
+        "memberships": ["ECHR", "NATO"],
         "deathPenalty": 0
     },
     {
@@ -214,7 +205,7 @@
             "Rome Statute"
         ],
         "situations": [],
-        "memberships": [],
+        "memberships": ["AU", "ACtHPR"],
         "deathPenalty": 0
     },
     {
@@ -225,7 +216,7 @@
             "Rome Statute"
         ],
         "situations": [],
-        "memberships": ["ECHR"],
+        "memberships": ["ECHR", "NATO"],
         "deathPenalty": 0
     },
     {
@@ -236,7 +227,7 @@
         "situations": [
             "Inquiry"
         ],
-        "memberships": [],
+        "memberships": ["AL"],
         "deathPenalty": 2
     },
     {
@@ -247,7 +238,7 @@
             "Rome Statute"
         ],
         "situations": [],
-        "memberships": [],
+        "memberships": ["AU", "ACtHPR"],
         "deathPenalty": 0
     },
     {
@@ -258,7 +249,7 @@
             "Rome Statute"
         ],
         "situations": [],
-        "memberships": [],
+        "memberships": ["AU"],
         "deathPenalty": 0
     },
     {
@@ -276,7 +267,7 @@
         "lng": 114.6667,
         "treaties": [],
         "situations": [],
-        "memberships": [],
+        "memberships": ["ASEAN"],
         "deathPenalty": 0
     },
     {
@@ -336,7 +327,7 @@
             "Rome Statute"
         ],
         "situations": [],
-        "memberships": [],
+        "memberships": ["AU"],
         "deathPenalty": 2
     },
     {
@@ -367,7 +358,7 @@
             "Rome Statute"
         ],
         "situations": [],
-        "memberships": ["IACHR"],
+        "memberships": ["IACHR", "NATO"],
         "deathPenalty": 0
     },
     {
@@ -389,7 +380,7 @@
         "situations": [
             "ICC"
         ],
-        "memberships": [],
+        "memberships": ["AU"],
         "deathPenalty": 2
     },
     {
@@ -402,7 +393,7 @@
         "situations": [
             "ICC"
         ],
-        "memberships": [],
+        "memberships": ["AU"],
         "deathPenalty": 0
     },
     {
@@ -413,7 +404,7 @@
             "Rome Statute"
         ],
         "situations": [],
-        "memberships": [],
+        "memberships": ["AU", "ACtHPR"],
         "deathPenalty": 0
     },
     {
@@ -433,7 +424,7 @@
         "situations": [
             "ICC"
         ],
-        "memberships": [],
+        "memberships": ["AU", "ACtHPR"],
         "deathPenalty": 0
     },
     {
@@ -466,7 +457,7 @@
         "lng": 12,
         "treaties": [],
         "situations": [],
-        "memberships": [],
+        "memberships": ["AU"],
         "deathPenalty": 0
     },
     {
@@ -517,7 +508,7 @@
             "Rome Statute"
         ],
         "situations": [],
-        "memberships": [],
+        "memberships": ["AU"],
         "deathPenalty": 0
     },
     {
@@ -548,7 +539,7 @@
             "Rome Statute"
         ],
         "situations": [],
-        "memberships": ["ECHR"],
+        "memberships": ["ECHR", "NATO"],
         "deathPenalty": 0
     },
     {
@@ -559,7 +550,7 @@
             "Rome Statute"
         ],
         "situations": [],
-        "memberships": ["UNSC", "ECHR"],
+        "memberships": ["UNSC", "ECHR", "NATO"],
         "deathPenalty": 0
     },
     {
@@ -570,7 +561,7 @@
             "Rome Statute"
         ],
         "situations": [],
-        "memberships": [],
+        "memberships": ["AU", "AL"],
         "deathPenalty": 0
     },
     {
@@ -581,7 +572,7 @@
             "Rome Statute"
         ],
         "situations": [],
-        "memberships": ["ECHR"],
+        "memberships": ["ECHR", "NATO"],
         "deathPenalty": 0
     },
     {
@@ -612,7 +603,7 @@
         "lng": 3,
         "treaties": [],
         "situations": [],
-        "memberships": [],
+        "memberships": ["AU", "ACtHPR", "AL"],
         "deathPenalty": 0
     },
     {
@@ -634,7 +625,7 @@
             "Rome Statute"
         ],
         "situations": [],
-        "memberships": ["ECHR"],
+        "memberships": ["ECHR", "NATO"],
         "deathPenalty": 0
     },
     {
@@ -645,7 +636,7 @@
         "situations": [
             "Domestic"
         ],
-        "memberships": [],
+        "memberships": ["AU", "AL"],
         "deathPenalty": 2
     },
     {
@@ -654,7 +645,7 @@
         "lng": -13,
         "treaties": [],
         "situations": [],
-        "memberships": [],
+        "memberships": ["AU"],
         "deathPenalty": 0
     },
     {
@@ -674,7 +665,7 @@
         "lng": 39,
         "treaties": [],
         "situations": [],
-        "memberships": [],
+        "memberships": ["AU"],
         "deathPenalty": 0
     },
     {
@@ -696,7 +687,7 @@
         "lng": 38,
         "treaties": [],
         "situations": [],
-        "memberships": [],
+        "memberships": ["AU"],
         "deathPenalty": 2
     },
     {
@@ -765,7 +756,7 @@
             "Rome Statute"
         ],
         "situations": [],
-        "memberships": ["UNSC", "UNSC P5", "ECHR"],
+        "memberships": ["UNSC", "UNSC P5", "ECHR", "NATO"],
         "deathPenalty": 0
     },
     {
@@ -776,7 +767,7 @@
             "Rome Statute"
         ],
         "situations": [],
-        "memberships": [],
+        "memberships": ["AU", "ACtHPR"],
         "deathPenalty": 0
     },
     {
@@ -789,7 +780,7 @@
         "situations": [
             "RT"
         ],
-        "memberships": ["UNSC", "UNSC P5", "ECHR"],
+        "memberships": ["UNSC", "UNSC P5", "ECHR", "NATO"],
         "deathPenalty": 0
     },
     {
@@ -831,7 +822,7 @@
             "Rome Statute"
         ],
         "situations": [],
-        "memberships": [],
+        "memberships": ["AU", "ACtHPR"],
         "deathPenalty": 0
     },
     {
@@ -860,7 +851,7 @@
             "Rome Statute"
         ],
         "situations": [],
-        "memberships": [],
+        "memberships": ["AU", "ACtHPR"],
         "deathPenalty": 0
     },
     {
@@ -871,7 +862,7 @@
             "Rome Statute"
         ],
         "situations": [],
-        "memberships": [],
+        "memberships": ["AU"],
         "deathPenalty": 0
     },
     {
@@ -889,7 +880,7 @@
         "lng": 10,
         "treaties": [],
         "situations": [],
-        "memberships": [],
+        "memberships": ["AU"],
         "deathPenalty": 2
     },
     {
@@ -900,7 +891,7 @@
             "Rome Statute"
         ],
         "situations": [],
-        "memberships": ["ECHR"],
+        "memberships": ["ECHR", "NATO"],
         "deathPenalty": 0
     },
     {
@@ -938,7 +929,7 @@
         "lng": -15,
         "treaties": [],
         "situations": [],
-        "memberships": [],
+        "memberships": ["AU"],
         "deathPenalty": 0
     },
     {
@@ -992,7 +983,7 @@
             "ICTY",
             "Domestic"
         ],
-        "memberships": ["ECHR"],
+        "memberships": ["ECHR", "NATO"],
         "deathPenalty": 0
     },
     {
@@ -1010,7 +1001,7 @@
         "lng": 20,
         "treaties": [],
         "situations": [],
-        "memberships": ["ECHR"],
+        "memberships": ["ECHR", "NATO"],
         "deathPenalty": 0
     },
     {
@@ -1019,7 +1010,7 @@
         "lng": 120,
         "treaties": [],
         "situations": [],
-        "memberships": [],
+        "memberships": ["ASEAN"],
         "deathPenalty": 2
     },
     {
@@ -1068,7 +1059,7 @@
         "lng": 44,
         "treaties": [],
         "situations": [],
-        "memberships": [],
+        "memberships": ["AL"],
         "deathPenalty": 2
     },
     {
@@ -1090,7 +1081,7 @@
             "Rome Statute"
         ],
         "situations": [],
-        "memberships": ["ECHR"],
+        "memberships": ["ECHR", "NATO"],
         "deathPenalty": 0
     },
     {
@@ -1101,7 +1092,7 @@
             "Rome Statute"
         ],
         "situations": [],
-        "memberships": ["ECHR"],
+        "memberships": ["ECHR", "NATO"],
         "deathPenalty": 0
     },
     {
@@ -1121,7 +1112,7 @@
             "Rome Statute"
         ],
         "situations": [],
-        "memberships": [],
+        "memberships": ["AL"],
         "deathPenalty": 2
     },
     {
@@ -1146,7 +1137,7 @@
             "ICC",
             "Domestic"
         ],
-        "memberships": [],
+        "memberships": ["AU", "ACtHPR"],
         "deathPenalty": 0
     },
     {
@@ -1168,7 +1159,7 @@
         "situations": [
             "ECCC"
         ],
-        "memberships": [],
+        "memberships": ["ASEAN"],
         "deathPenalty": 0
     },
     {
@@ -1188,7 +1179,7 @@
             "Rome Statute"
         ],
         "situations": [],
-        "memberships": [],
+        "memberships": ["AU", "ACtHPR"],
         "deathPenalty": 0
     },
     {
@@ -1240,7 +1231,7 @@
         "lng": 47.6581,
         "treaties": [],
         "situations": [],
-        "memberships": [],
+        "memberships": ["AL"],
         "deathPenalty": 2
     },
     {
@@ -1267,7 +1258,7 @@
         "lng": 105,
         "treaties": [],
         "situations": [],
-        "memberships": [],
+        "memberships": ["ASEAN"],
         "deathPenalty": 0
     },
     {
@@ -1278,7 +1269,7 @@
         "situations": [
             "STL"
         ],
-        "memberships": [],
+        "memberships": ["AL"],
         "deathPenalty": 2
     },
     {
@@ -1334,7 +1325,7 @@
             "Rome Statute"
         ],
         "situations": [],
-        "memberships": [],
+        "memberships": ["AU", "ACtHPR"],
         "deathPenalty": 0
     },
     {
@@ -1345,7 +1336,7 @@
             "Rome Statute"
         ],
         "situations": [],
-        "memberships": ["ECHR"],
+        "memberships": ["ECHR", "NATO"],
         "deathPenalty": 0
     },
     {
@@ -1356,7 +1347,7 @@
             "Rome Statute"
         ],
         "situations": [],
-        "memberships": ["ECHR"],
+        "memberships": ["ECHR", "NATO"],
         "deathPenalty": 0
     },
     {
@@ -1367,7 +1358,7 @@
             "Rome Statute"
         ],
         "situations": [],
-        "memberships": ["ECHR"],
+        "memberships": ["ECHR", "NATO"],
         "deathPenalty": 0
     },
     {
@@ -1378,7 +1369,7 @@
         "situations": [
             "ICC"
         ],
-        "memberships": [],
+        "memberships": ["AU", "ACtHPR", "AL"],
         "deathPenalty": 2
     },
     {
@@ -1387,7 +1378,7 @@
         "lng": -5,
         "treaties": [],
         "situations": [],
-        "memberships": ["UNSC"],
+        "memberships": ["UNSC", "AL"],
         "deathPenalty": 0
     },
     {
@@ -1429,7 +1420,7 @@
             "Rome Statute"
         ],
         "situations": [],
-        "memberships": [],
+        "memberships": ["AU"],
         "deathPenalty": 0
     },
     {
@@ -1462,7 +1453,7 @@
             "Rome Statute"
         ],
         "situations": [],
-        "memberships": [],
+        "memberships": ["AU", "ACtHPR"],
         "deathPenalty": 0
     },
     {
@@ -1471,7 +1462,7 @@
         "lng": 98,
         "treaties": [],
         "situations": [],
-        "memberships": [],
+        "memberships": ["ASEAN"],
         "deathPenalty": 0
     },
     {
@@ -1518,7 +1509,7 @@
         "lng": -12,
         "treaties": [],
         "situations": [],
-        "memberships": [],
+        "memberships": ["AU", "ACtHPR", "AL"],
         "deathPenalty": 0
     },
     {
@@ -1549,7 +1540,7 @@
             "Rome Statute"
         ],
         "situations": [],
-        "memberships": [],
+        "memberships": ["AU", "ACtHPR"],
         "deathPenalty": 0
     },
     {
@@ -1571,7 +1562,7 @@
             "Rome Statute"
         ],
         "situations": [],
-        "memberships": [],
+        "memberships": ["AU", "ACtHPR"],
         "deathPenalty": 0
     },
     {
@@ -1591,7 +1582,7 @@
         "lng": 112.5,
         "treaties": [],
         "situations": [],
-        "memberships": [],
+        "memberships": ["ASEAN"],
         "deathPenalty": 2
     },
     {
@@ -1600,7 +1591,7 @@
         "lng": 35,
         "treaties": [],
         "situations": [],
-        "memberships": [],
+        "memberships": ["AU", "ACtHPR"],
         "deathPenalty": 0
     },
     {
@@ -1611,7 +1602,7 @@
             "Rome Statute"
         ],
         "situations": [],
-        "memberships": [],
+        "memberships": ["AU"],
         "deathPenalty": 0
     },
     {
@@ -1631,7 +1622,7 @@
             "Rome Statute"
         ],
         "situations": [],
-        "memberships": [],
+        "memberships": ["AU", "ACtHPR"],
         "deathPenalty": 0
     },
     {
@@ -1651,7 +1642,7 @@
             "Rome Statute"
         ],
         "situations": [],
-        "memberships": [],
+        "memberships": ["AU", "ACtHPR"],
         "deathPenalty": 0
     },
     {
@@ -1671,7 +1662,7 @@
             "Rome Statute"
         ],
         "situations": [],
-        "memberships": ["ECHR"],
+        "memberships": ["ECHR", "NATO"],
         "deathPenalty": 0
     },
     {
@@ -1682,7 +1673,7 @@
             "Rome Statute"
         ],
         "situations": [],
-        "memberships": ["ECHR"],
+        "memberships": ["ECHR", "NATO"],
         "deathPenalty": 0
     },
     {
@@ -1731,7 +1722,7 @@
         "lng": 57,
         "treaties": [],
         "situations": [],
-        "memberships": [],
+        "memberships": ["AL"],
         "deathPenalty": 2
     },
     {
@@ -1782,7 +1773,7 @@
             "Rome Statute"
         ],
         "situations": [],
-        "memberships": [],
+        "memberships": ["ASEAN"],
         "deathPenalty": 0
     },
     {
@@ -1802,7 +1793,7 @@
             "Rome Statute"
         ],
         "situations": [],
-        "memberships": ["ECHR"],
+        "memberships": ["ECHR", "NATO"],
         "deathPenalty": 0
     },
     {
@@ -1831,7 +1822,7 @@
         "situations": [
             "RT"
         ],
-        "memberships": [],
+        "memberships": ["AL"],
         "deathPenalty": 0
     },
     {
@@ -1842,7 +1833,7 @@
             "Rome Statute"
         ],
         "situations": [],
-        "memberships": ["UNSC", "ECHR"],
+        "memberships": ["UNSC", "ECHR", "NATO"],
         "deathPenalty": 0
     },
     {
@@ -1871,7 +1862,7 @@
         "lng": 51.25,
         "treaties": [],
         "situations": [],
-        "memberships": [],
+        "memberships": ["AL"],
         "deathPenalty": 2
     },
     {
@@ -1891,7 +1882,7 @@
             "Rome Statute"
         ],
         "situations": [],
-        "memberships": ["ECHR"],
+        "memberships": ["ECHR", "NATO"],
         "deathPenalty": 0
     },
     {
@@ -1927,7 +1918,7 @@
         "situations": [
             "ICTR"
         ],
- 		"memberships": [],
+ 	"memberships": ["AU", "ACtHPR"],
         "deathPenalty": 0
     },
     {
@@ -1936,7 +1927,7 @@
         "lng": 45,
         "treaties": [],
         "situations": [],
-        "memberships": [],
+        "memberships": ["AL"],
         "deathPenalty": 2
     },
     {
@@ -1956,7 +1947,7 @@
             "Rome Statute"
         ],
         "situations": [],
-        "memberships": [],
+        "memberships": ["AU"],
         "deathPenalty": 0
     },
     {
@@ -1967,7 +1958,7 @@
         "situations": [
             "ICC"
         ],
-        "memberships": [],
+        "memberships": ["AU", "AL"],
         "deathPenalty": 2
     },
     {
@@ -1987,7 +1978,7 @@
         "lng": 103.8,
         "treaties": [],
         "situations": [],
-        "memberships": [],
+        "memberships": ["ASEAN"],
         "deathPenalty": 2
     },
     {
@@ -2007,7 +1998,7 @@
             "Rome Statute"
         ],
         "situations": [],
-        "memberships": ["ECHR"],
+        "memberships": ["ECHR", "NATO"],
         "deathPenalty": 0
     },
     {
@@ -2018,7 +2009,7 @@
             "Rome Statute"
         ],
         "situations": [],
-        "memberships": ["ECHR"],
+        "memberships": ["ECHR", "NATO"],
         "deathPenalty": 0
     },
     {
@@ -2033,7 +2024,7 @@
             "Domestic",
             "TAR"
         ],
-        "memberships": [],
+        "memberships": ["AU"],
         "deathPenalty": 0
     },
     {
@@ -2055,7 +2046,7 @@
             "Rome Statute"
         ],
         "situations": [],
-        "memberships": [],
+        "memberships": ["AU", "ACtHPR"],
         "deathPenalty": 0
     },
     {
@@ -2064,7 +2055,7 @@
         "lng": 49,
         "treaties": [],
         "situations": [],
-        "memberships": [],
+        "memberships": ["AU", "AL"],
         "deathPenalty": 2
     },
     {
@@ -2084,7 +2075,7 @@
         "lng": 30.399,
         "treaties": [],
         "situations": [],
-        "memberships": [],
+        "memberships": ["AU"],
         "deathPenalty": 2
     },
     {
@@ -2093,7 +2084,7 @@
         "lng": 7,
         "treaties": [],
         "situations": [],
-        "memberships": [],
+        "memberships": ["AU"],
         "deathPenalty": 0
     },
     {
@@ -2111,7 +2102,7 @@
         "lng": 38,
         "treaties": [],
         "situations": [],
-        "memberships": [],
+        "memberships": ["AL"],
         "deathPenalty": 2
     },
     {
@@ -2120,7 +2111,7 @@
         "lng": 31.5,
         "treaties": [],
         "situations": [],
-        "memberships": [],
+        "memberships": ["AU"],
         "deathPenalty": 0
     },
     {
@@ -2140,7 +2131,7 @@
             "Rome Statute"
         ],
         "situations": [],
-        "memberships": [],
+        "memberships": ["AU"],
         "deathPenalty": 2
     },
     {
@@ -2149,7 +2140,7 @@
         "lng": 1.1667,
         "treaties": [],
         "situations": [],
-        "memberships": ["UNSC"],
+        "memberships": ["UNSC", "AU", "ACtHPR"],
         "deathPenalty": 0
     },
     {
@@ -2158,7 +2149,7 @@
         "lng": 100,
         "treaties": [],
         "situations": [],
-        "memberships": [],
+        "memberships": ["ASEAN"],
         "deathPenalty": 2
     },
     {
@@ -2198,7 +2189,7 @@
             "Rome Statute"
         ],
         "situations": [],
-        "memberships": [],
+        "memberships": ["AU", "ACtHPR", "AL"],
         "deathPenalty": 0
     },
     {
@@ -2216,7 +2207,7 @@
         "lng": 35,
         "treaties": [],
         "situations": [],
-        "memberships": ["ECHR"],
+        "memberships": ["ECHR", "NATO"],
         "deathPenalty": 0
     },
     {
@@ -2256,7 +2247,7 @@
             "Rome Statute"
         ],
         "situations": [],
-        "memberships": [],
+        "memberships": ["AU", "ACtHPR"],
         "deathPenalty": 0
     },
     {
@@ -2278,7 +2269,7 @@
         "situations": [
             "ICC"
         ],
-        "memberships": [],
+        "memberships": ["AU", "ACtHPR"],
         "deathPenalty": 2
     },
     {
@@ -2287,7 +2278,7 @@
         "lng": -97,
         "treaties": [],
         "situations": ["RT"],
-        "memberships": ["UNSC", "UNSC P5", "IACHR"],
+        "memberships": ["UNSC", "UNSC P5", "IACHR", "NATO"],
         "deathPenalty": 2
     },
     {
@@ -2349,7 +2340,7 @@
         "situations": [
             "RT"
         ],
-        "memberships": [],
+        "memberships": ["ASEAN"],
         "deathPenalty": 2
     },
     {
@@ -2380,7 +2371,7 @@
         "lng": 48,
         "treaties": [],
         "situations": [],
-        "memberships": [],
+        "memberships": ["AL"],
         "deathPenalty": 2
     },
     {
@@ -2402,7 +2393,7 @@
         "situations": [
             "TAR"
         ],
-        "memberships": ["UNSC"],
+        "memberships": ["UNSC", "AU", "ACtHPR"],
         "deathPenalty": 0
     },
     {
@@ -2413,7 +2404,7 @@
             "Rome Statute"
         ],
         "situations": [],
-        "memberships": [],
+        "memberships": ["AU"],
         "deathPenalty": 0
     },
     {
@@ -2422,7 +2413,7 @@
         "lng": 30,
         "treaties": [],
         "situations": [],
-        "memberships": [],
+        "memberships": ["AU"],
         "deathPenalty": 2
     }
 ]
