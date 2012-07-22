@@ -18,5 +18,9 @@
 	"ACtHPR": { "longName": "African Court on Human and People's Rights" },
 	"AU": { "longName": "African Union" },
 	"ASEAN": { "longName": "Association of South East Asian Nations" },
-	"AL": { "name": "Arab League", "longName": "Arab League of States" }
+	"AL": { "name": "Arab League", "longName": "Arab League of States" },
+	"ECOWAS": {"longName": "Economic Community of West African States" },
+	"EAC": {"longName": "East African Community" },
+	"PE": {"name": "ICC Preliminary Examination", "longName": "Currently under an ICC Preliminary Examination"},
+	"CEDAW": {"longName": "Convention on the Elimination of All Forms of Discrimination against Women"}
 }

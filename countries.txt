@@ -4,7 +4,7 @@
         "lat": 42.5,
         "lng": 1.5,
         "treaties": [
-            "Rome Statute"
+            "Rome Statute", "CEDAW"
         ],
         "situations": [],
         "memberships": ["ECHR"],
@@ -14,7 +14,7 @@
         "name": "United Arab Emirates",
         "lat": 24,
         "lng": 54,
-        "treaties": [],
+        "treaties": ["CEDAW"],
         "situations": [],
         "memberships": ["AL"],
         "deathPenalty": 2
@@ -24,9 +24,9 @@
         "lat": 33,
         "lng": 65,
         "treaties": [
-            "Rome Statute"
+            "Rome Statute", "CEDAW"
         ],
-        "situations": [],
+        "situations": ["PE"],
         "memberships": [],
         "deathPenalty": 2
     },
@@ -35,7 +35,7 @@
         "lat": 17.05,
         "lng": -61.8,
         "treaties": [
-            "Rome Statute"
+            "Rome Statute", "CEDAW"
         ],
         "situations": [],
         "memberships": ["IACHR"],
@@ -55,7 +55,7 @@
         "lat": 41,
         "lng": 20,
         "treaties": [
-            "Rome Statute"
+            "Rome Statute", "CEDAW"
         ],
         "situations": [],
         "memberships": ["ECHR", "NATO"],
@@ -65,7 +65,7 @@
         "name": "Armenia",
         "lat": 40,
         "lng": 45,
-        "treaties": [],
+        "treaties": ["CEDAW"],
         "situations": [],
         "memberships": ["ECHR"],
         "deathPenalty": 0
@@ -74,7 +74,7 @@
         "name": "Angola",
         "lat": -12.5,
         "lng": 18.5,
-        "treaties": [],
+        "treaties": ["CEDAW"],
         "situations": [],
         "memberships": ["AU"],
         "deathPenalty": 0
@@ -93,7 +93,7 @@
         "lat": -34,
         "lng": -64,
         "treaties": [
-            "Rome Statute"
+            "Rome Statute", "CEDAW"
         ],
         "situations": [],
         "memberships": ["IACHR", "IACtHR"],
@@ -113,7 +113,7 @@
         "lat": 47.3333,
         "lng": 13.3333,
         "treaties": [
-            "Rome Statute"
+            "Rome Statute", "CEDAW"
         ],
         "situations": [],
         "memberships": ["ECHR"],
@@ -124,7 +124,7 @@
         "lat": -27,
         "lng": 133,
         "treaties": [
-            "Rome Statute"
+            "Rome Statute", "CEDAW"
         ],
         "situations": [],
         "memberships": [],
@@ -143,7 +143,7 @@
         "name": "Azerbaijan",
         "lat": 40.5,
         "lng": 47.5,
-        "treaties": [],
+        "treaties": ["CEDAW"],
         "situations": [],
         "memberships": ["UNSC", "ECHR"],
         "deathPenalty": 0
@@ -153,7 +153,7 @@
         "lat": 44,
         "lng": 18,
         "treaties": [
-            "Rome Statute"
+            "Rome Statute", "CEDAW"
         ],
         "situations": [
             "ICTY",
@@ -167,7 +167,7 @@
         "lat": 13.1667,
         "lng": -59.5333,
         "treaties": [
-            "Rome Statute"
+            "Rome Statute", "CEDAW"
         ],
         "situations": [],
         "memberships": ["IACHR", "IACtHR"],
@@ -178,7 +178,7 @@
         "lat": 24,
         "lng": 90,
         "treaties": [
-            "Rome Statute"
+            "Rome Statute", "CEDAW"
         ],
         "situations": [
             "Domestic"
@@ -191,7 +191,7 @@
         "lat": 50.8333,
         "lng": 4,
         "treaties": [
-            "Rome Statute"
+            "Rome Statute", "CEDAW"
         ],
         "situations": [],
         "memberships": ["ECHR", "NATO"],
@@ -202,10 +202,10 @@
         "lat": 13,
         "lng": -2,
         "treaties": [
-            "Rome Statute"
+            "Rome Statute", "CEDAW"
         ],
         "situations": [],
-        "memberships": ["AU", "ACtHPR"],
+        "memberships": ["AU", "ACtHPR", "ECOWAS"],
         "deathPenalty": 0
     },
     {
@@ -213,7 +213,7 @@
         "lat": 43,
         "lng": 25,
         "treaties": [
-            "Rome Statute"
+            "Rome Statute", "CEDAW"
         ],
         "situations": [],
         "memberships": ["ECHR", "NATO"],
@@ -223,7 +223,7 @@
         "name": "Bahrain",
         "lat": 26,
         "lng": 50.55,
-        "treaties": [],
+        "treaties": ["CEDAW"],
         "situations": [
             "Inquiry"
         ],
@@ -235,10 +235,10 @@
         "lat": -3.5,
         "lng": 30,
         "treaties": [
-            "Rome Statute"
+            "Rome Statute", "CEDAW"
         ],
         "situations": [],
-        "memberships": ["AU", "ACtHPR"],
+        "memberships": ["AU", "ACtHPR", "EAC"],
         "deathPenalty": 0
     },
     {
@@ -246,10 +246,10 @@
         "lat": 9.5,
         "lng": 2.25,
         "treaties": [
-            "Rome Statute"
+            "Rome Statute", "CEDAW"
         ],
         "situations": [],
-        "memberships": ["AU"],
+        "memberships": ["AU", "ECOWAS"],
         "deathPenalty": 0
     },
     {
@@ -265,7 +265,7 @@
         "name": "Brunei Darussalam",
         "lat": 4.5,
         "lng": 114.6667,
-        "treaties": [],
+        "treaties": ["CEDAW"],
         "situations": [],
         "memberships": ["ASEAN"],
         "deathPenalty": 0
@@ -275,7 +275,7 @@
         "lat": -17,
         "lng": -65,
         "treaties": [
-            "Rome Statute"
+            "Rome Statute", "CEDAW"
         ],
         "situations": [],
         "memberships": ["IACHR", "IACtHR"],
@@ -286,7 +286,7 @@
         "lat": -10,
         "lng": -55,
         "treaties": [
-            "Rome Statute"
+            "Rome Statute", "CEDAW"
         ],
         "situations": [],
         "memberships": ["IACHR", "IACtHR"],
@@ -296,7 +296,7 @@
         "name": "Bahamas",
         "lat": 24.25,
         "lng": -76,
-        "treaties": [],
+        "treaties": ["CEDAW"],
         "situations": [],
         "memberships": ["IACHR"],
         "deathPenalty": 0
@@ -305,7 +305,7 @@
         "name": "Bhutan",
         "lat": 27.5,
         "lng": 90.5,
-        "treaties": [],
+        "treaties": ["CEDAW"],
         "situations": [],
         "memberships": [],
         "deathPenalty": 0
@@ -324,7 +324,7 @@
         "lat": -22,
         "lng": 24,
         "treaties": [
-            "Rome Statute"
+            "Rome Statute", "CEDAW"
         ],
         "situations": [],
         "memberships": ["AU"],
@@ -334,7 +334,7 @@
         "name": "Belarus",
         "lat": 53,
         "lng": 28,
-        "treaties": [],
+        "treaties": ["CEDAW"],
         "situations": [],
         "memberships": [],
         "deathPenalty": 0
@@ -344,7 +344,7 @@
         "lat": 17.25,
         "lng": -88.75,
         "treaties": [
-            "Rome Statute"
+            "Rome Statute", "CEDAW"
         ],
         "situations": [],
         "memberships": ["IACHR"],
@@ -355,7 +355,7 @@
         "lat": 60,
         "lng": -95,
         "treaties": [
-            "Rome Statute"
+            "Rome Statute", "CEDAW"
         ],
         "situations": [],
         "memberships": ["IACHR", "NATO"],
@@ -375,7 +375,7 @@
         "lat": 0.1,
         "lng": 25,
         "treaties": [
-            "Rome Statute"
+            "Rome Statute", "CEDAW"
         ],
         "situations": [
             "ICC"
@@ -388,7 +388,7 @@
         "lat": 7,
         "lng": 21,
         "treaties": [
-            "Rome Statute"
+            "Rome Statute", "CEDAW"
         ],
         "situations": [
             "ICC"
@@ -401,7 +401,7 @@
         "lat": -1,
         "lng": 15,
         "treaties": [
-            "Rome Statute"
+            "Rome Statute", "CEDAW"
         ],
         "situations": [],
         "memberships": ["AU", "ACtHPR"],
@@ -411,7 +411,7 @@
         "name": "Switzerland",
         "lat": 47,
         "lng": 8,
-        "treaties": [],
+        "treaties": ["CEDAW"],
         "situations": [],
         "memberships": ["ECHR"],
         "deathPenalty": 0
@@ -420,11 +420,11 @@
         "name": "Cote d'Ivoire",
         "lat": 8,
         "lng": -5,
-        "treaties": [],
+        "treaties": ["CEDAW"],
         "situations": [
             "ICC"
         ],
-        "memberships": ["AU", "ACtHPR"],
+        "memberships": ["AU", "ACtHPR", "ECOWAS"],
         "deathPenalty": 0
     },
     {
@@ -432,7 +432,7 @@
         "lat": -21.2333,
         "lng": -159.7667,
         "treaties": [
-            "Rome Statute"
+            "Rome Statute", "CEDAW"
         ],
         "situations": [],
         "memberships": [],
@@ -443,7 +443,7 @@
         "lat": -30,
         "lng": -71,
         "treaties": [
-            "Rome Statute"
+            "Rome Statute", "CEDAW"
         ],
         "situations": [
             "Domestic"
@@ -455,7 +455,7 @@
         "name": "Cameroon",
         "lat": 6,
         "lng": 12,
-        "treaties": [],
+        "treaties": ["CEDAW"],
         "situations": [],
         "memberships": ["AU"],
         "deathPenalty": 0
@@ -464,7 +464,7 @@
         "name": "China",
         "lat": 35,
         "lng": 105,
-        "treaties": [],
+        "treaties": ["CEDAW"],
         "situations": [],
         "memberships": ["UNSC", "UNSC P5"],
         "deathPenalty": 2
@@ -474,9 +474,9 @@
         "lat": 4,
         "lng": -72,
         "treaties": [
-            "Rome Statute"
+            "Rome Statute", "CEDAW"
         ],
-        "situations": [],
+        "situations": ["PE"],
         "memberships": ["UNSC", "IACHR", "IACtHR"],
         "deathPenalty": 0
     },
@@ -485,7 +485,7 @@
         "lat": 10,
         "lng": -84,
         "treaties": [
-            "Rome Statute"
+            "Rome Statute", "CEDAW"
         ],
         "situations": [],
         "memberships": ["IACHR", "IACtHR"],
@@ -495,7 +495,7 @@
         "name": "Cuba",
         "lat": 21.5,
         "lng": -80,
-        "treaties": [],
+        "treaties": ["CEDAW"],
         "situations": [],
         "memberships": [],
         "deathPenalty": 2
@@ -505,10 +505,10 @@
         "lat": 16,
         "lng": -24,
         "treaties": [
-            "Rome Statute"
+            "Rome Statute", "CEDAW"
         ],
         "situations": [],
-        "memberships": ["AU"],
+        "memberships": ["AU", "ECOWAS"],
         "deathPenalty": 0
     },
     {
@@ -525,7 +525,7 @@
         "lat": 35,
         "lng": 33,
         "treaties": [
-            "Rome Statute"
+            "Rome Statute", "CEDAW"
         ],
         "situations": [],
         "memberships": ["ECHR"],
@@ -536,7 +536,7 @@
         "lat": 49.75,
         "lng": 15.5,
         "treaties": [
-            "Rome Statute"
+            "Rome Statute", "CEDAW"
         ],
         "situations": [],
         "memberships": ["ECHR", "NATO"],
@@ -547,7 +547,7 @@
         "lat": 51,
         "lng": 9,
         "treaties": [
-            "Rome Statute"
+            "Rome Statute", "CEDAW"
         ],
         "situations": [],
         "memberships": ["UNSC", "ECHR", "NATO"],
@@ -558,7 +558,7 @@
         "lat": 11.5,
         "lng": 43,
         "treaties": [
-            "Rome Statute"
+            "Rome Statute", "CEDAW"
         ],
         "situations": [],
         "memberships": ["AU", "AL"],
@@ -569,7 +569,7 @@
         "lat": 56,
         "lng": 10,
         "treaties": [
-            "Rome Statute"
+            "Rome Statute", "CEDAW"
         ],
         "situations": [],
         "memberships": ["ECHR", "NATO"],
@@ -580,7 +580,7 @@
         "lat": 15.4167,
         "lng": -61.3333,
         "treaties": [
-            "Rome Statute"
+            "Rome Statute", "CEDAW"
         ],
         "situations": [],
         "memberships": ["IACHR"],
@@ -591,7 +591,7 @@
         "lat": 19,
         "lng": -70.6667,
         "treaties": [
-            "Rome Statute"
+            "Rome Statute", "CEDAW"
         ],
         "situations": [],
         "memberships": ["IACHR", "IACtHR"],
@@ -601,7 +601,7 @@
         "name": "Algeria",
         "lat": 28,
         "lng": 3,
-        "treaties": [],
+        "treaties": ["CEDAW"],
         "situations": [],
         "memberships": ["AU", "ACtHPR", "AL"],
         "deathPenalty": 0
@@ -611,7 +611,7 @@
         "lat": -2,
         "lng": -77.5,
         "treaties": [
-            "Rome Statute"
+            "Rome Statute", "CEDAW"
         ],
         "situations": [],
         "memberships": ["IACHR", "IACtHR"],
@@ -622,7 +622,7 @@
         "lat": 59,
         "lng": 26,
         "treaties": [
-            "Rome Statute"
+            "Rome Statute", "CEDAW"
         ],
         "situations": [],
         "memberships": ["ECHR", "NATO"],
@@ -632,7 +632,7 @@
         "name": "Egypt",
         "lat": 27,
         "lng": 30,
-        "treaties": [],
+        "treaties": ["CEDAW"],
         "situations": [
             "Domestic"
         ],
@@ -653,7 +653,7 @@
         "lat": -8.729,
         "lng": 125.897,
         "treaties": [
-            "Rome Statute"
+            "Rome Statute", "CEDAW"
         ],
         "situations": [],
         "memberships": [],
@@ -663,7 +663,7 @@
         "name": "Eritrea",
         "lat": 15,
         "lng": 39,
-        "treaties": [],
+        "treaties": ["CEDAW"],
         "situations": [],
         "memberships": ["AU"],
         "deathPenalty": 0
@@ -673,7 +673,7 @@
         "lat": 40,
         "lng": -4,
         "treaties": [
-            "Rome Statute"
+            "Rome Statute", "CEDAW"
         ],
         "situations": [
             "Domestic"
@@ -685,7 +685,7 @@
         "name": "Ethiopia",
         "lat": 8,
         "lng": 38,
-        "treaties": [],
+        "treaties": ["CEDAW"],
         "situations": [],
         "memberships": ["AU"],
         "deathPenalty": 2
@@ -704,7 +704,7 @@
         "lat": 64,
         "lng": 26,
         "treaties": [
-            "Rome Statute"
+            "Rome Statute", "CEDAW"
         ],
         "situations": [],
         "memberships": ["ECHR"],
@@ -715,7 +715,7 @@
         "lat": -18,
         "lng": 175,
         "treaties": [
-            "Rome Statute"
+            "Rome Statute", "CEDAW"
         ],
         "situations": [],
         "memberships": [],
@@ -734,7 +734,7 @@
         "name": "Micronesia, Federated States of",
         "lat": 6.9167,
         "lng": 158.25,
-        "treaties": [],
+        "treaties": ["CEDAW"],
         "situations": [],
         "memberships": [],
         "deathPenalty": 0
@@ -753,7 +753,7 @@
         "lat": 46,
         "lng": 2,
         "treaties": [
-            "Rome Statute"
+            "Rome Statute", "CEDAW"
         ],
         "situations": [],
         "memberships": ["UNSC", "UNSC P5", "ECHR", "NATO"],
@@ -764,7 +764,7 @@
         "lat": -1,
         "lng": 11.75,
         "treaties": [
-            "Rome Statute"
+            "Rome Statute", "CEDAW"
         ],
         "situations": [],
         "memberships": ["AU", "ACtHPR"],
@@ -775,7 +775,7 @@
         "lat": 54,
         "lng": -2,
         "treaties": [
-            "Rome Statute"
+            "Rome Statute", "CEDAW"
         ],
         "situations": [
             "RT"
@@ -788,7 +788,7 @@
         "lat": 12.1167,
         "lng": -61.6667,
         "treaties": [
-            "Rome Statute"
+            "Rome Statute", "CEDAW"
         ],
         "situations": [],
         "memberships": ["IACHR"],
@@ -799,9 +799,9 @@
         "lat": 42,
         "lng": 43.5,
         "treaties": [
-            "Rome Statute"
+            "Rome Statute", "CEDAW"
         ],
-        "situations": [],
+        "situations": ["PE"],
         "memberships": ["ECHR"],
         "deathPenalty": 0
     },
@@ -819,10 +819,10 @@
         "lat": 8,
         "lng": -2,
         "treaties": [
-            "Rome Statute"
+            "Rome Statute", "CEDAW"
         ],
         "situations": [],
-        "memberships": ["AU", "ACtHPR"],
+        "memberships": ["AU", "ACtHPR", "ECOWAS"],
         "deathPenalty": 0
     },
     {
@@ -848,10 +848,10 @@
         "lat": 13.4667,
         "lng": -16.5667,
         "treaties": [
-            "Rome Statute"
+            "Rome Statute", "CEDAW"
         ],
         "situations": [],
-        "memberships": ["AU", "ACtHPR"],
+        "memberships": ["AU", "ACtHPR", "ECOWAS"],
         "deathPenalty": 0
     },
     {
@@ -859,10 +859,10 @@
         "lat": 11,
         "lng": -10,
         "treaties": [
-            "Rome Statute"
+            "Rome Statute", "CEDAW"
         ],
-        "situations": [],
-        "memberships": ["AU"],
+        "situations": ["PE"],
+        "memberships": ["AU", "ECOWAS"],
         "deathPenalty": 0
     },
     {
@@ -878,7 +878,7 @@
         "name": "Equatorial Guinea",
         "lat": 2,
         "lng": 10,
-        "treaties": [],
+        "treaties": ["CEDAW"],
         "situations": [],
         "memberships": ["AU"],
         "deathPenalty": 2
@@ -888,7 +888,7 @@
         "lat": 39,
         "lng": 22,
         "treaties": [
-            "Rome Statute"
+            "Rome Statute", "CEDAW"
         ],
         "situations": [],
         "memberships": ["ECHR", "NATO"],
@@ -908,7 +908,7 @@
         "lat": 15.5,
         "lng": -90.25,
         "treaties": [
-            "Rome Statute"
+            "Rome Statute", "CEDAW"
         ],
         "situations": [],
         "memberships": ["UNSC", "IACHR", "IACtHR"],
@@ -927,9 +927,9 @@
         "name": "Guinea-Bissau",
         "lat": 12,
         "lng": -15,
-        "treaties": [],
+        "treaties": ["CEDAW"],
         "situations": [],
-        "memberships": ["AU"],
+        "memberships": ["AU", "ECOWAS"],
         "deathPenalty": 0
     },
     {
@@ -937,7 +937,7 @@
         "lat": 5,
         "lng": -59,
         "treaties": [
-            "Rome Statute"
+            "Rome Statute", "CEDAW"
         ],
         "situations": [],
         "memberships": ["IACHR"],
@@ -966,9 +966,9 @@
         "lat": 15,
         "lng": -86.5,
         "treaties": [
-            "Rome Statute"
+            "Rome Statute", "CEDAW"
         ],
-        "situations": [],
+        "situations": ["PE"],
         "memberships": ["IACHR", "IACtHR"],
         "deathPenalty": 0
     },
@@ -977,7 +977,7 @@
         "lat": 45.1667,
         "lng": 15.5,
         "treaties": [
-            "Rome Statute"
+            "Rome Statute", "CEDAW"
         ],
         "situations": [
             "ICTY",
@@ -990,7 +990,7 @@
         "name": "Haiti",
         "lat": 19,
         "lng": -72.4167,
-        "treaties": [],
+        "treaties": ["CEDAW"],
         "situations": [],
         "memberships": ["IACHR", "IACtHR"],
         "deathPenalty": 0
@@ -999,7 +999,7 @@
         "name": "Hungary",
         "lat": 47,
         "lng": 20,
-        "treaties": [],
+        "treaties": ["CEDAW"],
         "situations": [],
         "memberships": ["ECHR", "NATO"],
         "deathPenalty": 0
@@ -1008,7 +1008,7 @@
         "name": "Indonesia",
         "lat": -5,
         "lng": 120,
-        "treaties": [],
+        "treaties": ["CEDAW"],
         "situations": [],
         "memberships": ["ASEAN"],
         "deathPenalty": 2
@@ -1018,7 +1018,7 @@
         "lat": 53,
         "lng": -8,
         "treaties": [
-            "Rome Statute"
+            "Rome Statute", "CEDAW"
         ],
         "situations": [],
         "memberships": ["ECHR"],
@@ -1028,7 +1028,7 @@
         "name": "Israel",
         "lat": 31.5,
         "lng": 34.75,
-        "treaties": [],
+        "treaties": ["CEDAW"],
         "situations": [
             "RT"
         ],
@@ -1048,7 +1048,7 @@
         "name": "India",
         "lat": 20,
         "lng": 77,
-        "treaties": [],
+        "treaties": ["CEDAW"],
         "situations": [],
         "memberships": ["UNSC"],
         "deathPenalty": 2
@@ -1057,7 +1057,7 @@
         "name": "Iraq",
         "lat": 33,
         "lng": 44,
-        "treaties": [],
+        "treaties": ["CEDAW"],
         "situations": [],
         "memberships": ["AL"],
         "deathPenalty": 2
@@ -1078,7 +1078,7 @@
         "lat": 65,
         "lng": -18,
         "treaties": [
-            "Rome Statute"
+            "Rome Statute", "CEDAW"
         ],
         "situations": [],
         "memberships": ["ECHR", "NATO"],
@@ -1089,7 +1089,7 @@
         "lat": 42.8333,
         "lng": 12.8333,
         "treaties": [
-            "Rome Statute"
+            "Rome Statute", "CEDAW"
         ],
         "situations": [],
         "memberships": ["ECHR", "NATO"],
@@ -1099,7 +1099,7 @@
         "name": "Jamaica",
         "lat": 18.25,
         "lng": -77.5,
-        "treaties": [],
+        "treaties": ["CEDAW"],
         "situations": [],
         "memberships": ["IACHR"],
         "deathPenalty": 0
@@ -1109,7 +1109,7 @@
         "lat": 31,
         "lng": 36,
         "treaties": [
-            "Rome Statute"
+            "Rome Statute", "CEDAW"
         ],
         "situations": [],
         "memberships": ["AL"],
@@ -1120,7 +1120,7 @@
         "lat": 36,
         "lng": 138,
         "treaties": [
-            "Rome Statute"
+            "Rome Statute", "CEDAW"
         ],
         "situations": [],
         "memberships": [],
@@ -1131,20 +1131,20 @@
         "lat": 1,
         "lng": 38,
         "treaties": [
-            "Rome Statute"
+            "Rome Statute", "CEDAW"
         ],
         "situations": [
             "ICC",
             "Domestic"
         ],
-        "memberships": ["AU", "ACtHPR"],
+        "memberships": ["AU", "ACtHPR", "EAC"],
         "deathPenalty": 0
     },
     {
         "name": "Kyrgyzstan",
         "lat": 41,
         "lng": 75,
-        "treaties": [],
+        "treaties": ["CEDAW"],
         "situations": [],
         "memberships": [],
         "deathPenalty": 0
@@ -1154,7 +1154,7 @@
         "lat": 13,
         "lng": 105,
         "treaties": [
-            "Rome Statute"
+            "Rome Statute", "CEDAW"
         ],
         "situations": [
             "ECCC"
@@ -1166,7 +1166,7 @@
         "name": "Kiribati",
         "lat": 1.4167,
         "lng": 173,
-        "treaties": [],
+        "treaties": ["CEDAW"],
         "situations": [],
         "memberships": [],
         "deathPenalty": 0
@@ -1176,7 +1176,7 @@
         "lat": -12.1667,
         "lng": 44.25,
         "treaties": [
-            "Rome Statute"
+            "Rome Statute", "CEDAW"
         ],
         "situations": [],
         "memberships": ["AU", "ACtHPR"],
@@ -1187,7 +1187,7 @@
         "lat": 17.3333,
         "lng": -62.75,
         "treaties": [
-            "Rome Statute"
+            "Rome Statute", "CEDAW"
         ],
         "situations": [],
         "memberships": ["IACHR"],
@@ -1197,7 +1197,7 @@
         "name": "North Korea",
         "lat": 40,
         "lng": 127,
-        "treaties": [],
+        "treaties": ["CEDAW"],
         "situations": [],
         "memberships": [],
         "deathPenalty": 2
@@ -1207,9 +1207,9 @@
         "lat": 37,
         "lng": 127.5,
         "treaties": [
-            "Rome Statute"
+            "Rome Statute", "CEDAW"
         ],
-        "situations": [],
+        "situations": ["PE"],
         "memberships": [],
         "deathPenalty": 0
     },
@@ -1229,7 +1229,7 @@
         "name": "Kuwait",
         "lat": 29.3375,
         "lng": 47.6581,
-        "treaties": [],
+        "treaties": ["CEDAW"],
         "situations": [],
         "memberships": ["AL"],
         "deathPenalty": 2
@@ -1247,7 +1247,7 @@
         "name": "Kazakhstan",
         "lat": 48,
         "lng": 68,
-        "treaties": [],
+        "treaties": ["CEDAW"],
         "situations": [],
         "memberships": [],
         "deathPenalty": 0
@@ -1256,7 +1256,7 @@
         "name": "Laos",
         "lat": 18,
         "lng": 105,
-        "treaties": [],
+        "treaties": ["CEDAW"],
         "situations": [],
         "memberships": ["ASEAN"],
         "deathPenalty": 0
@@ -1265,7 +1265,7 @@
         "name": "Lebanon",
         "lat": 33.8333,
         "lng": 35.8333,
-        "treaties": [],
+        "treaties": ["CEDAW"],
         "situations": [
             "STL"
         ],
@@ -1277,7 +1277,7 @@
         "lat": 13.8833,
         "lng": -61.1333,
         "treaties": [
-            "Rome Statute"
+            "Rome Statute", "CEDAW"
         ],
         "situations": [],
         "memberships": ["IACHR"],
@@ -1288,7 +1288,7 @@
         "lat": 47.1667,
         "lng": 9.5333,
         "treaties": [
-            "Rome Statute"
+            "Rome Statute", "CEDAW"
         ],
         "situations": [],
         "memberships": ["ECHR"],
@@ -1298,7 +1298,7 @@
         "name": "Sri Lanka",
         "lat": 7,
         "lng": 81,
-        "treaties": [],
+        "treaties": ["CEDAW"],
         "situations": [],
         "memberships": [],
         "deathPenalty": 0
@@ -1308,13 +1308,13 @@
         "lat": 6.5,
         "lng": -9.5,
         "treaties": [
-            "Rome Statute"
+            "Rome Statute", "CEDAW"
         ],
         "situations": [
             "SCSL",
             "Domestic"
         ],
-        "memberships": [],
+        "memberships": ["AU", "ECOWAS"],
         "deathPenalty": 0
     },
     {
@@ -1322,7 +1322,7 @@
         "lat": -29.5,
         "lng": 28.5,
         "treaties": [
-            "Rome Statute"
+            "Rome Statute", "CEDAW"
         ],
         "situations": [],
         "memberships": ["AU", "ACtHPR"],
@@ -1333,7 +1333,7 @@
         "lat": 56,
         "lng": 24,
         "treaties": [
-            "Rome Statute"
+            "Rome Statute", "CEDAW"
         ],
         "situations": [],
         "memberships": ["ECHR", "NATO"],
@@ -1344,7 +1344,7 @@
         "lat": 49.75,
         "lng": 6.1667,
         "treaties": [
-            "Rome Statute"
+            "Rome Statute", "CEDAW"
         ],
         "situations": [],
         "memberships": ["ECHR", "NATO"],
@@ -1355,7 +1355,7 @@
         "lat": 57,
         "lng": 25,
         "treaties": [
-            "Rome Statute"
+            "Rome Statute", "CEDAW"
         ],
         "situations": [],
         "memberships": ["ECHR", "NATO"],
@@ -1365,7 +1365,7 @@
         "name": "Libya",
         "lat": 25,
         "lng": 17,
-        "treaties": [],
+        "treaties": ["CEDAW"],
         "situations": [
             "ICC"
         ],
@@ -1376,7 +1376,7 @@
         "name": "Morocco",
         "lat": 32,
         "lng": -5,
-        "treaties": [],
+        "treaties": ["CEDAW"],
         "situations": [],
         "memberships": ["UNSC", "AL"],
         "deathPenalty": 0
@@ -1385,7 +1385,7 @@
         "name": "Monaco",
         "lat": 43.7333,
         "lng": 7.4,
-        "treaties": [],
+        "treaties": ["CEDAW"],
         "situations": [],
         "memberships": ["ECHR"],
         "deathPenalty": 0
@@ -1395,7 +1395,7 @@
         "lat": 47,
         "lng": 29,
         "treaties": [
-            "Rome Statute"
+            "Rome Statute", "CEDAW"
         ],
         "situations": [],
         "memberships": ["ECHR"],
@@ -1406,7 +1406,7 @@
         "lat": 42,
         "lng": 19,
         "treaties": [
-            "Rome Statute"
+            "Rome Statute", "CEDAW"
         ],
         "situations": [],
         "memberships": ["ECHR"],
@@ -1417,7 +1417,7 @@
         "lat": -20,
         "lng": 47,
         "treaties": [
-            "Rome Statute"
+            "Rome Statute", "CEDAW"
         ],
         "situations": [],
         "memberships": ["AU"],
@@ -1428,7 +1428,7 @@
         "lat": 9,
         "lng": 168,
         "treaties": [
-            "Rome Statute"
+            "Rome Statute", "CEDAW"
         ],
         "situations": [],
         "memberships": [],
@@ -1439,7 +1439,7 @@
         "lat": 41.8333,
         "lng": 22,
         "treaties": [
-            "Rome Statute"
+            "Rome Statute", "CEDAW"
         ],
         "situations": [],
         "memberships": ["ECHR"],
@@ -1450,17 +1450,17 @@
         "lat": 17,
         "lng": -4,
         "treaties": [
-            "Rome Statute"
+            "Rome Statute", "CEDAW"
         ],
-        "situations": [],
-        "memberships": ["AU", "ACtHPR"],
+        "situations": ["PE"],
+        "memberships": ["AU", "ACtHPR", "ECOWAS"],
         "deathPenalty": 0
     },
     {
         "name": "Myanmar (Burma)",
         "lat": 22,
         "lng": 98,
-        "treaties": [],
+        "treaties": ["CEDAW"],
         "situations": [],
         "memberships": ["ASEAN"],
         "deathPenalty": 0
@@ -1470,7 +1470,7 @@
         "lat": 46,
         "lng": 105,
         "treaties": [
-            "Rome Statute"
+            "Rome Statute", "CEDAW"
         ],
         "situations": [],
         "memberships": [],
@@ -1507,7 +1507,7 @@
         "name": "Mauritania",
         "lat": 20,
         "lng": -12,
-        "treaties": [],
+        "treaties": ["CEDAW"],
         "situations": [],
         "memberships": ["AU", "ACtHPR", "AL"],
         "deathPenalty": 0
@@ -1526,7 +1526,7 @@
         "lat": 35.8333,
         "lng": 14.5833,
         "treaties": [
-            "Rome Statute"
+            "Rome Statute", "CEDAW"
         ],
         "situations": [],
         "memberships": ["ECHR"],
@@ -1537,7 +1537,7 @@
         "lat": -20.2833,
         "lng": 57.55,
         "treaties": [
-            "Rome Statute"
+            "Rome Statute", "CEDAW"
         ],
         "situations": [],
         "memberships": ["AU", "ACtHPR"],
@@ -1548,7 +1548,7 @@
         "lat": 3.25,
         "lng": 73,
         "treaties": [
-            "Rome Statute"
+            "Rome Statute", "CEDAW"
         ],
         "situations": [],
         "memberships": [],
@@ -1559,7 +1559,7 @@
         "lat": -13.5,
         "lng": 34,
         "treaties": [
-            "Rome Statute"
+            "Rome Statute", "CEDAW"
         ],
         "situations": [],
         "memberships": ["AU", "ACtHPR"],
@@ -1570,7 +1570,7 @@
         "lat": 23,
         "lng": -102,
         "treaties": [
-            "Rome Statute"
+            "Rome Statute", "CEDAW"
         ],
         "situations": [],
         "memberships": ["IACHR", "IACtHR"],
@@ -1580,7 +1580,7 @@
         "name": "Malaysia",
         "lat": 2.5,
         "lng": 112.5,
-        "treaties": [],
+        "treaties": ["CEDAW"],
         "situations": [],
         "memberships": ["ASEAN"],
         "deathPenalty": 2
@@ -1589,7 +1589,7 @@
         "name": "Mozambique",
         "lat": -18.25,
         "lng": 35,
-        "treaties": [],
+        "treaties": ["CEDAW"],
         "situations": [],
         "memberships": ["AU", "ACtHPR"],
         "deathPenalty": 0
@@ -1599,7 +1599,7 @@
         "lat": -22,
         "lng": 17,
         "treaties": [
-            "Rome Statute"
+            "Rome Statute", "CEDAW"
         ],
         "situations": [],
         "memberships": ["AU"],
@@ -1619,10 +1619,10 @@
         "lat": 16,
         "lng": 8,
         "treaties": [
-            "Rome Statute"
+            "Rome Statute", "CEDAW"
         ],
         "situations": [],
-        "memberships": ["AU", "ACtHPR"],
+        "memberships": ["AU", "ACtHPR", "ECOWAS"],
         "deathPenalty": 0
     },
     {
@@ -1639,17 +1639,17 @@
         "lat": 10,
         "lng": 8,
         "treaties": [
-            "Rome Statute"
+            "Rome Statute", "CEDAW"
         ],
-        "situations": [],
-        "memberships": ["AU", "ACtHPR"],
+        "situations": ["PE"],
+        "memberships": ["AU", "ACtHPR", "ECOWAS"],
         "deathPenalty": 0
     },
     {
         "name": "Nicaragua",
         "lat": 13,
         "lng": -85,
-        "treaties": [],
+        "treaties": ["CEDAW"],
         "situations": [],
         "memberships": ["IACHR", "IACtHR"],
         "deathPenalty": 0
@@ -1659,7 +1659,7 @@
         "lat": 52.5,
         "lng": 5.75,
         "treaties": [
-            "Rome Statute"
+            "Rome Statute", "CEDAW"
         ],
         "situations": [],
         "memberships": ["ECHR", "NATO"],
@@ -1670,7 +1670,7 @@
         "lat": 62,
         "lng": 10,
         "treaties": [
-            "Rome Statute"
+            "Rome Statute", "CEDAW"
         ],
         "situations": [],
         "memberships": ["ECHR", "NATO"],
@@ -1680,7 +1680,7 @@
         "name": "Nepal",
         "lat": 28,
         "lng": 84,
-        "treaties": [],
+        "treaties": ["CEDAW"],
         "situations": [],
         "memberships": [],
         "deathPenalty": 0
@@ -1690,7 +1690,7 @@
         "lat": -0.5333,
         "lng": 166.9167,
         "treaties": [
-            "Rome Statute"
+            "Rome Statute", "CEDAW"
         ],
         "situations": [],
         "memberships": [],
@@ -1710,7 +1710,7 @@
         "lat": -41,
         "lng": 174,
         "treaties": [
-            "Rome Statute"
+            "Rome Statute", "CEDAW"
         ],
         "situations": [],
         "memberships": [],
@@ -1720,7 +1720,7 @@
         "name": "Oman",
         "lat": 21,
         "lng": 57,
-        "treaties": [],
+        "treaties": ["CEDAW"],
         "situations": [],
         "memberships": ["AL"],
         "deathPenalty": 2
@@ -1730,7 +1730,7 @@
         "lat": 9,
         "lng": -80,
         "treaties": [
-            "Rome Statute"
+            "Rome Statute", "CEDAW"
         ],
         "situations": [],
         "memberships": ["IACHR", "IACtHR"],
@@ -1741,7 +1741,7 @@
         "lat": -10,
         "lng": -76,
         "treaties": [
-            "Rome Statute"
+            "Rome Statute", "CEDAW"
         ],
         "situations": [],
         "memberships": ["IACHR", "IACtHR"],
@@ -1760,7 +1760,7 @@
         "name": "Papua New Guinea",
         "lat": -6,
         "lng": 147,
-        "treaties": [],
+        "treaties": ["CEDAW"],
         "situations": [],
         "memberships": [],
         "deathPenalty": 0
@@ -1770,7 +1770,7 @@
         "lat": 13,
         "lng": 122,
         "treaties": [
-            "Rome Statute"
+            "Rome Statute", "CEDAW"
         ],
         "situations": [],
         "memberships": ["ASEAN"],
@@ -1780,7 +1780,7 @@
         "name": "Pakistan",
         "lat": 30,
         "lng": 70,
-        "treaties": [],
+        "treaties": ["CEDAW"],
         "situations": [],
         "memberships": ["UNSC"],
         "deathPenalty": 2
@@ -1790,7 +1790,7 @@
         "lat": 52,
         "lng": 20,
         "treaties": [
-            "Rome Statute"
+            "Rome Statute", "CEDAW"
         ],
         "situations": [],
         "memberships": ["ECHR", "NATO"],
@@ -1830,7 +1830,7 @@
         "lat": 39.5,
         "lng": -8,
         "treaties": [
-            "Rome Statute"
+            "Rome Statute", "CEDAW"
         ],
         "situations": [],
         "memberships": ["UNSC", "ECHR", "NATO"],
@@ -1840,7 +1840,7 @@
         "name": "Palau",
         "lat": 7.5,
         "lng": 134.5,
-        "treaties": [],
+        "treaties": ["CEDAW"],
         "situations": [],
         "memberships": [],
         "deathPenalty": 0
@@ -1850,7 +1850,7 @@
         "lat": -23,
         "lng": -58,
         "treaties": [
-            "Rome Statute"
+            "Rome Statute", "CEDAW"
         ],
         "situations": [],
         "memberships": ["IACHR", "IACtHR"],
@@ -1860,7 +1860,7 @@
         "name": "Qatar",
         "lat": 25.5,
         "lng": 51.25,
-        "treaties": [],
+        "treaties": ["CEDAW"],
         "situations": [],
         "memberships": ["AL"],
         "deathPenalty": 2
@@ -1879,7 +1879,7 @@
         "lat": 46,
         "lng": 25,
         "treaties": [
-            "Rome Statute"
+            "Rome Statute", "CEDAW"
         ],
         "situations": [],
         "memberships": ["ECHR", "NATO"],
@@ -1890,7 +1890,7 @@
         "lat": 44,
         "lng": 21,
         "treaties": [
-            "Rome Statute"
+            "Rome Statute", "CEDAW"
         ],
         "situations": [
             "ICTY",
@@ -1903,7 +1903,7 @@
         "name": "Russian Federation",
         "lat": 60,
         "lng": 100,
-        "treaties": [],
+        "treaties": ["CEDAW"],
         "situations": [
             "Inquiry"
         ],
@@ -1914,18 +1914,18 @@
         "name": "Rwanda",
         "lat": -2,
         "lng": 30,
-        "treaties": [],
+        "treaties": ["CEDAW"],
         "situations": [
             "ICTR"
         ],
- 	"memberships": ["AU", "ACtHPR"],
+ 	"memberships": ["AU", "ACtHPR", "EAC"],
         "deathPenalty": 0
     },
     {
         "name": "Saudi Arabia",
         "lat": 25,
         "lng": 45,
-        "treaties": [],
+        "treaties": ["CEDAW"],
         "situations": [],
         "memberships": ["AL"],
         "deathPenalty": 2
@@ -1934,7 +1934,7 @@
         "name": "Solomon Islands",
         "lat": -8,
         "lng": 159,
-        "treaties": [],
+        "treaties": ["CEDAW"],
         "situations": [],
         "memberships": [],
         "deathPenalty": 0
@@ -1944,7 +1944,7 @@
         "lat": -4.5833,
         "lng": 55.6667,
         "treaties": [
-            "Rome Statute"
+            "Rome Statute", "CEDAW"
         ],
         "situations": [],
         "memberships": ["AU"],
@@ -1966,7 +1966,7 @@
         "lat": 62,
         "lng": 15,
         "treaties": [
-            "Rome Statute"
+            "Rome Statute", "CEDAW"
         ],
         "situations": [],
         "memberships": ["ECHR"],
@@ -1976,7 +1976,7 @@
         "name": "Singapore",
         "lat": 1.3667,
         "lng": 103.8,
-        "treaties": [],
+        "treaties": ["CEDAW"],
         "situations": [],
         "memberships": ["ASEAN"],
         "deathPenalty": 2
@@ -1995,7 +1995,7 @@
         "lat": 46,
         "lng": 15,
         "treaties": [
-            "Rome Statute"
+            "Rome Statute", "CEDAW"
         ],
         "situations": [],
         "memberships": ["ECHR", "NATO"],
@@ -2006,7 +2006,7 @@
         "lat": 48.6667,
         "lng": 19.5,
         "treaties": [
-            "Rome Statute"
+            "Rome Statute", "CEDAW"
         ],
         "situations": [],
         "memberships": ["ECHR", "NATO"],
@@ -2017,14 +2017,14 @@
         "lat": 8.5,
         "lng": -11.5,
         "treaties": [
-            "Rome Statute"
+            "Rome Statute", "CEDAW"
         ],
         "situations": [
             "SCSL",
             "Domestic",
             "TAR"
         ],
-        "memberships": ["AU"],
+        "memberships": ["AU", "ECOWAS"],
         "deathPenalty": 0
     },
     {
@@ -2032,7 +2032,7 @@
         "lat": 43.7667,
         "lng": 12.4167,
         "treaties": [
-            "Rome Statute"
+            "Rome Statute", "CEDAW"
         ],
         "situations": [],
         "memberships": ["ECHR"],
@@ -2043,10 +2043,10 @@
         "lat": 14,
         "lng": -14,
         "treaties": [
-            "Rome Statute"
+            "Rome Statute", "CEDAW"
         ],
         "situations": [],
-        "memberships": ["AU", "ACtHPR"],
+        "memberships": ["AU", "ACtHPR", "ECOWAS"],
         "deathPenalty": 0
     },
     {
@@ -2063,7 +2063,7 @@
         "lat": 4,
         "lng": -56,
         "treaties": [
-            "Rome Statute"
+            "Rome Statute", "CEDAW"
         ],
         "situations": [],
         "memberships": ["IACHR", "IACtHR"],
@@ -2082,7 +2082,7 @@
         "name": "Sao Tome and Principe",
         "lat": 1,
         "lng": 7,
-        "treaties": [],
+        "treaties": ["CEDAW"],
         "situations": [],
         "memberships": ["AU"],
         "deathPenalty": 0
@@ -2091,7 +2091,7 @@
         "name": "El Salvador",
         "lat": 13.8333,
         "lng": -88.9167,
-        "treaties": [],
+        "treaties": ["CEDAW"],
         "situations": [],
         "memberships": ["IACHR", "IACtHR"],
         "deathPenalty": 0
@@ -2100,7 +2100,7 @@
         "name": "Syrian Arab Republic",
         "lat": 35,
         "lng": 38,
-        "treaties": [],
+        "treaties": ["CEDAW"],
         "situations": [],
         "memberships": ["AL"],
         "deathPenalty": 2
@@ -2109,7 +2109,7 @@
         "name": "Swaziland",
         "lat": -26.5,
         "lng": 31.5,
-        "treaties": [],
+        "treaties": ["CEDAW"],
         "situations": [],
         "memberships": ["AU"],
         "deathPenalty": 0
@@ -2128,7 +2128,7 @@
         "lat": 15,
         "lng": 19,
         "treaties": [
-            "Rome Statute"
+            "Rome Statute", "CEDAW"
         ],
         "situations": [],
         "memberships": ["AU"],
@@ -2138,16 +2138,16 @@
         "name": "Togo",
         "lat": 8,
         "lng": 1.1667,
-        "treaties": [],
+        "treaties": ["CEDAW"],
         "situations": [],
-        "memberships": ["UNSC", "AU", "ACtHPR"],
+        "memberships": ["UNSC", "AU", "ACtHPR", "ECOWAS"],
         "deathPenalty": 0
     },
     {
         "name": "Thailand",
         "lat": 15,
         "lng": 100,
-        "treaties": [],
+        "treaties": ["CEDAW"],
         "situations": [],
         "memberships": ["ASEAN"],
         "deathPenalty": 2
@@ -2157,7 +2157,7 @@
         "lat": 39,
         "lng": 71,
         "treaties": [
-            "Rome Statute"
+            "Rome Statute", "CEDAW"
         ],
         "situations": [],
         "memberships": [],
@@ -2176,7 +2176,7 @@
         "name": "Turkmenistan",
         "lat": 40,
         "lng": 60,
-        "treaties": [],
+        "treaties": ["CEDAW"],
         "situations": [],
         "memberships": [],
         "deathPenalty": 0
@@ -2186,7 +2186,7 @@
         "lat": 34,
         "lng": 9,
         "treaties": [
-            "Rome Statute"
+            "Rome Statute", "CEDAW"
         ],
         "situations": [],
         "memberships": ["AU", "ACtHPR", "AL"],
@@ -2205,7 +2205,7 @@
         "name": "Turkey",
         "lat": 39,
         "lng": 35,
-        "treaties": [],
+        "treaties": ["CEDAW"],
         "situations": [],
         "memberships": ["ECHR", "NATO"],
         "deathPenalty": 0
@@ -2215,7 +2215,7 @@
         "lat": 11,
         "lng": -61,
         "treaties": [
-            "Rome Statute"
+            "Rome Statute", "CEDAW"
         ],
         "situations": [],
         "memberships": [],
@@ -2225,7 +2225,7 @@
         "name": "Tuvalu",
         "lat": -8,
         "lng": 178,
-        "treaties": [],
+        "treaties": ["CEDAW"],
         "situations": [],
         "memberships": [],
         "deathPenalty": 0
@@ -2244,7 +2244,7 @@
         "lat": -6,
         "lng": 35,
         "treaties": [
-            "Rome Statute"
+            "Rome Statute", "CEDAW"
         ],
         "situations": [],
         "memberships": ["AU", "ACtHPR"],
@@ -2254,7 +2254,7 @@
         "name": "Ukraine",
         "lat": 49,
         "lng": 32,
-        "treaties": [],
+        "treaties": ["CEDAW"],
         "situations": [],
         "memberships": ["ECHR"],
         "deathPenalty": 0
@@ -2264,19 +2264,19 @@
         "lat": 1,
         "lng": 32,
         "treaties": [
-            "Rome Statute"
+            "Rome Statute", "CEDAW"
         ],
         "situations": [
             "ICC"
         ],
-        "memberships": ["AU", "ACtHPR"],
+        "memberships": ["AU", "ACtHPR", "EAC"],
         "deathPenalty": 2
     },
     {
         "name": "United States",
         "lat": 38,
         "lng": -97,
-        "treaties": [],
+        "treaties": ["CEDAW"],
         "situations": ["RT"],
         "memberships": ["UNSC", "UNSC P5", "IACHR", "NATO"],
         "deathPenalty": 2
@@ -2286,7 +2286,7 @@
         "lat": -33,
         "lng": -56,
         "treaties": [
-            "Rome Statute"
+            "Rome Statute", "CEDAW"
         ],
         "situations": [],
         "memberships": ["IACHR", "IACtHR"],
@@ -2296,7 +2296,7 @@
         "name": "Uzbekistan",
         "lat": 41,
         "lng": 64,
-        "treaties": [],
+        "treaties": ["CEDAW"],
         "situations": [],
         "memberships": [],
         "deathPenalty": 0
@@ -2315,7 +2315,7 @@
         "lat": 13.25,
         "lng": -61.2,
         "treaties": [
-            "Rome Statute"
+            "Rome Statute", "CEDAW"
         ],
         "situations": [],
         "memberships": ["IACHR"],
@@ -2326,7 +2326,7 @@
         "lat": 8,
         "lng": -66,
         "treaties": [
-            "Rome Statute"
+            "Rome Statute", "CEDAW"
         ],
         "situations": [],
         "memberships": ["IACHR", "IACtHR"],
@@ -2336,7 +2336,7 @@
         "name": "Viet Nam",
         "lat": 16,
         "lng": 106,
-        "treaties": [],
+        "treaties": ["CEDAW"],
         "situations": [
             "RT"
         ],
@@ -2348,7 +2348,7 @@
         "lat": -16,
         "lng": 167,
         "treaties": [
-            "Rome Statute"
+            "Rome Statute", "CEDAW"
         ],
         "situations": [],
         "memberships": [],
@@ -2359,7 +2359,7 @@
         "lat": -13.5833,
         "lng": -172.3333,
         "treaties": [
-            "Rome Statute"
+            "Rome Statute", "CEDAW"
         ],
         "situations": [],
         "memberships": [],
@@ -2369,7 +2369,7 @@
         "name": "Yemen",
         "lat": 15,
         "lng": 48,
-        "treaties": [],
+        "treaties": ["CEDAW"],
         "situations": [],
         "memberships": ["AL"],
         "deathPenalty": 2
@@ -2388,7 +2388,7 @@
         "lat": -29,
         "lng": 24,
         "treaties": [
-            "Rome Statute"
+            "Rome Statute", "CEDAW"
         ],
         "situations": [
             "TAR"
@@ -2401,7 +2401,7 @@
         "lat": -15,
         "lng": 30,
         "treaties": [
-            "Rome Statute"
+            "Rome Statute", "CEDAW"
         ],
         "situations": [],
         "memberships": ["AU"],
@@ -2411,7 +2411,7 @@
         "name": "Zimbabwe",
         "lat": -20,
         "lng": 30,
-        "treaties": [],
+        "treaties": ["CEDAW"],
         "situations": [],
         "memberships": ["AU"],
         "deathPenalty": 2
