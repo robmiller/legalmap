@@ -26,46 +26,24 @@ var LegalMap = function () {
 
 		// Provide actions for the filter buttons.
 		$(document).on('click', 'button:not(#showall)', function () {
-			if ($(this).data('state') === 'on') {
-				$(this).data('state', 'off');
-				$(this).text($(this).text().replace(' ✔', ''));
-			} else {
-				$(this).data('state', 'on');
-				$(this).text($(this).text() + ' ✔');
-			}
+			var button = this,
+				new_state = self.toggleButton(button);
 
-			var treaties = $(this).data('treaties'),
-				memberships = $(this).data('memberships'),
-				situations = $(this).data('situations'),
-				deathPenalty = $(this).data('deathpenalty');
-
-			if ($(this).data('state') === 'on') {
-				if (treaties) {
-					self.activeFilters.treaties.push(treaties);
+			_.each(
+				['treaties', 'memberships', 'situations', 'deathPenalty'],
+				function (type) {
+					var filter_value = $(button).data(type.toLowerCase());
+					if ( typeof filter_value !== 'undefined' ) {
+						if ( new_state === 'on' ) {
+							// If we're adding a filter, we need to push onto the activeFilters array.
+							self.activeFilters[type].push(filter_value);
+						} else {
+							// If we're removing a filter, then we need to remove an element from the activeFilters array.
+							self.activeFilters[type].splice([_.indexOf(self.activeFilters[type], filter_value)], 1); 
+						}
+					}
 				}
-				if (memberships) {
-					self.activeFilters.memberships.push(memberships);
-				}
-				if (situations) {
-					self.activeFilters.situations.push(situations);
-				}
-				if (typeof deathPenalty !== 'undefined') {
-					self.activeFilters.deathPenalty.push(deathPenalty);
-				}
-			} else {
-				if (treaties) {
-					self.activeFilters.treaties.splice([_.indexOf(self.activeFilters.treaties, treaties)], 1);
-				}
-				if (memberships) {
-					self.activeFilters.memberships.splice([_.indexOf(self.activeFilters.memberships, memberships)], 1);
-				}
-				if (situations) {
-					self.activeFilters.situations.splice([_.indexOf(self.activeFilters.situations, situations)], 1);
-				}
-				if (typeof deathPenalty !== 'undefined') {
-					self.activeFilters.deathPenalty.splice([_.indexOf(self.activeFilters.deathPenalty, deathPenalty)], 1);
-				}
-			}
+			);
 
 			self.filterCountries();
 		});
@@ -76,6 +54,20 @@ var LegalMap = function () {
 		});
 
 		$('a#togglefilters').click(function (e) { e.preventDefault(); self.toggleFilters(); });
+	};
+
+	this.toggleButton = function (button) {
+		var new_state = 'off';
+
+		if ( $(button).data('state') === 'on' ) {
+			$(button).text($(button).text().replace(' ✔', ''));
+		} else {
+			$(button).text($(button).text() + ' ✔');
+			new_state = 'on';
+		}
+
+		$(button).data('state', new_state);
+		return new_state;
 	};
 
 	this.fetchGlossary = function (callback) {
