@@ -33,13 +33,13 @@ var LegalMap = function () {
 				['treaties', 'memberships', 'situations', 'deathPenalty'],
 				function (type) {
 					var filter_value = $(button).data(type.toLowerCase());
-					if ( typeof filter_value !== 'undefined' ) {
-						if ( new_state === 'on' ) {
+					if (typeof filter_value !== 'undefined') {
+						if (new_state === 'on') {
 							// If we're adding a filter, we need to push onto the activeFilters array.
 							self.activeFilters[type].push(filter_value);
 						} else {
 							// If we're removing a filter, then we need to remove an element from the activeFilters array.
-							self.activeFilters[type].splice([_.indexOf(self.activeFilters[type], filter_value)], 1); 
+							self.activeFilters[type].splice([_.indexOf(self.activeFilters[type], filter_value)], 1);
 						}
 					}
 				}
@@ -59,7 +59,7 @@ var LegalMap = function () {
 	this.toggleButton = function (button) {
 		var new_state = 'off';
 
-		if ( $(button).data('state') === 'on' ) {
+		if ($(button).data('state') === 'on') {
 			$(button).text($(button).text().replace(' ✔', ''));
 		} else {
 			$(button).text($(button).text() + ' ✔');
@@ -173,8 +173,9 @@ var LegalMap = function () {
 		_.each(items, function (item) {
 			html += '<li>' + item + '</li>';
 		});
+		html += '</ul>';
 
-		return html += '</ul>';
+		return html;
 	};
 
 	this.addCountry = function (country) {
