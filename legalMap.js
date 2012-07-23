@@ -163,35 +163,27 @@ var LegalMap = function () {
 		});
 	};
 
+	this.makeList = function (title, items) {
+		if (items.length < 1) {
+			return '';
+		}
+
+		var html = '<h4>' + title + '</h4>';
+		html += '<ul>';
+		_.each(items, function (item) {
+			html += '<li>' + item + '</li>';
+		});
+
+		return html += '</ul>';
+	};
+
 	this.addCountry = function (country) {
 		var infoWindow = '<h3>' + country.name + '</h3>';
-		infoWindow += '<h4>Treaties signed:</h4><ul>';
-		if (country.treaties.length > 0) {
-			_.each(country.treaties, function (treaty) {
-				infoWindow += '<li>' + treaty + '</li>';
-			});
-		} else {
-			infoWindow += '<li>None</li>';
-		}
-		infoWindow += '</ul>';
-		infoWindow += '<h4>Current situations:</h4><ul>';
-		if (country.situations.length > 0) {
-			_.each(country.situations, function (situation) {
-				infoWindow += '<li>' + situation + '</li>';
-			});
-		} else {
-			infoWindow += '<li>None</li>';
-		}
-		infoWindow += '</ul>';
-		infoWindow += '<h4>Memberships:</h4><ul>';
-		if(country.memberships.length > 0) {
-			_.each(country.memberships, function (membership) {
-				infoWindow += '<li>' + membership + '</li>';
-			});
-		} else {
-			infoWindow += '<li>None</li>';
-		}
-		infoWindow += '</ul>';
+
+		infoWindow += self.makeList('Treaties signed:', country.treaties);
+		infoWindow += self.makeList('Current situations:', country.situations);
+		infoWindow += self.makeList('Memberships:', country.memberships);
+
 		infoWindow += '<h4>Death penalty:</h4><ul>';
 		if (country.deathPenalty === 0) {
 			infoWindow += '<li>Abolished</li>';
